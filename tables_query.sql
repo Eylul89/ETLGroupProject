@@ -28,19 +28,8 @@ DROP TABLE IF EXISTS ny_density
 -- Creating table that will hold the county density information
 CREATE TABLE ny_density(
 	county VARCHAR(50),
-	state VARCHAR(30),
-	fips DEC,
-	cases INT,
-	deaths INT,
-	date DATE,
-	Daily_mean_PM_concentration DEC,
-	units VARCHAR (30),
-	daily_aqi_value INT,
-	Site_Name VARCHAR,
-	CBSA_Name VARCHAR,
-	STATE_ VARCHAR(30),
-	FIPS_Code INT,
-	COUNTY_ VARCHAR(30)
+	FIPS_code INT,
+	Density DEC
 );
 
 SELECT * FROM ny_density

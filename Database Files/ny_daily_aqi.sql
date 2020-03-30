@@ -1,0 +1,947 @@
+--
+-- PostgreSQL database dump
+--
+
+-- Dumped from database version 12.2
+-- Dumped by pg_dump version 12.2
+
+-- Started on 2020-03-30 13:55:03
+
+SET statement_timeout = 0;
+SET lock_timeout = 0;
+SET idle_in_transaction_session_timeout = 0;
+SET client_encoding = 'UTF8';
+SET standard_conforming_strings = on;
+SELECT pg_catalog.set_config('search_path', '', false);
+SET check_function_bodies = false;
+SET xmloption = content;
+SET client_min_messages = warning;
+SET row_security = off;
+
+DROP DATABASE "covid19-ny";
+--
+-- TOC entry 2826 (class 1262 OID 16559)
+-- Name: covid19-ny; Type: DATABASE; Schema: -; Owner: postgres
+--
+
+CREATE DATABASE "covid19-ny" WITH TEMPLATE = template0 ENCODING = 'UTF8' LC_COLLATE = 'English_United States.1252' LC_CTYPE = 'English_United States.1252';
+
+
+ALTER DATABASE "covid19-ny" OWNER TO postgres;
+
+\connect -reuse-previous=on "dbname='covid19-ny'"
+
+SET statement_timeout = 0;
+SET lock_timeout = 0;
+SET idle_in_transaction_session_timeout = 0;
+SET client_encoding = 'UTF8';
+SET standard_conforming_strings = on;
+SELECT pg_catalog.set_config('search_path', '', false);
+SET check_function_bodies = false;
+SET xmloption = content;
+SET client_min_messages = warning;
+SET row_security = off;
+
+SET default_tablespace = '';
+
+SET default_table_access_method = heap;
+
+--
+-- TOC entry 202 (class 1259 OID 16984)
+-- Name: ny_daily_aqi; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.ny_daily_aqi (
+    date date NOT NULL,
+    county_code integer NOT NULL,
+    county character varying,
+    avg_aqi_value double precision
+);
+
+
+ALTER TABLE public.ny_daily_aqi OWNER TO postgres;
+
+--
+-- TOC entry 2822 (class 0 OID 16984)
+-- Dependencies: 202
+-- Data for Name: ny_daily_aqi; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.ny_daily_aqi (date, county_code, county, avg_aqi_value) FROM stdin;
+2020-01-01	1	Albany	11
+2020-01-01	5	Bronx	20.4
+2020-01-01	29	Erie	34
+2020-01-01	31	Essex	0
+2020-01-01	47	Kings	22.66666667
+2020-01-01	55	Monroe	24
+2020-01-01	59	Nassau	31
+2020-01-01	61	New York	25.2
+2020-01-01	65	Oneida	30
+2020-01-01	67	Onondaga	19
+2020-01-01	71	Orange	21
+2020-01-01	81	Queens	15
+2020-01-01	85	Richmond	22.66666667
+2020-01-01	87	Rockland	30
+2020-01-01	101	Steuben	17.5
+2020-01-01	103	Suffolk	19
+2020-01-01	119	Westchester	30
+2020-01-02	1	Albany	38
+2020-01-02	5	Bronx	51.33333333
+2020-01-02	29	Erie	35.66666667
+2020-01-02	47	Kings	48
+2020-01-02	55	Monroe	30.5
+2020-01-02	61	New York	52
+2020-01-02	65	Oneida	37
+2020-01-02	67	Onondaga	24
+2020-01-02	71	Orange	41
+2020-01-02	81	Queens	46
+2020-01-02	85	Richmond	50
+2020-01-02	87	Rockland	43
+2020-01-02	101	Steuben	19
+2020-01-02	103	Suffolk	43
+2020-01-02	119	Westchester	45
+2020-01-03	1	Albany	54
+2020-01-03	5	Bronx	61.66666667
+2020-01-03	29	Erie	42.66666667
+2020-01-03	47	Kings	55.5
+2020-01-03	55	Monroe	50.5
+2020-01-03	59	Nassau	53
+2020-01-03	61	New York	60.33333333
+2020-01-03	65	Oneida	40
+2020-01-03	67	Onondaga	45
+2020-01-03	71	Orange	57
+2020-01-03	81	Queens	57.33333333
+2020-01-03	85	Richmond	54
+2020-01-03	87	Rockland	55
+2020-01-03	101	Steuben	26
+2020-01-03	103	Suffolk	52
+2020-01-03	119	Westchester	54
+2020-01-04	1	Albany	53
+2020-01-04	5	Bronx	51
+2020-01-04	29	Erie	24.66666667
+2020-01-04	31	Essex	6
+2020-01-04	47	Kings	43
+2020-01-04	55	Monroe	23
+2020-01-04	59	Nassau	43
+2020-01-04	61	New York	52.66666667
+2020-01-04	65	Oneida	24
+2020-01-04	67	Onondaga	48
+2020-01-04	71	Orange	45
+2020-01-04	81	Queens	48.33333333
+2020-01-04	85	Richmond	37
+2020-01-04	87	Rockland	38
+2020-01-04	101	Steuben	19
+2020-01-04	103	Suffolk	45
+2020-01-04	119	Westchester	41
+2020-01-05	1	Albany	12
+2020-01-05	5	Bronx	22
+2020-01-05	29	Erie	23.33333333
+2020-01-05	31	Essex	6
+2020-01-05	47	Kings	28
+2020-01-05	55	Monroe	21
+2020-01-05	59	Nassau	28
+2020-01-05	61	New York	33
+2020-01-05	65	Oneida	23
+2020-01-05	67	Onondaga	13
+2020-01-05	71	Orange	27
+2020-01-05	81	Queens	20.33333333
+2020-01-05	85	Richmond	25
+2020-01-05	87	Rockland	28
+2020-01-05	101	Steuben	10
+2020-01-05	103	Suffolk	30
+2020-01-05	119	Westchester	29
+2020-01-06	1	Albany	29
+2020-01-06	5	Bronx	42
+2020-01-06	29	Erie	32.66666667
+2020-01-06	31	Essex	5
+2020-01-06	47	Kings	39.5
+2020-01-06	55	Monroe	27.5
+2020-01-06	59	Nassau	39
+2020-01-06	61	New York	43.33333333
+2020-01-06	65	Oneida	28
+2020-01-06	67	Onondaga	20
+2020-01-06	71	Orange	35
+2020-01-06	81	Queens	36.33333333
+2020-01-06	85	Richmond	37.5
+2020-01-06	87	Rockland	32
+2020-01-06	101	Steuben	17
+2020-01-06	103	Suffolk	39
+2020-01-07	1	Albany	29
+2020-01-07	5	Bronx	37
+2020-01-07	29	Erie	32.33333333
+2020-01-07	31	Essex	5
+2020-01-07	47	Kings	39
+2020-01-07	55	Monroe	32.5
+2020-01-07	59	Nassau	35
+2020-01-07	61	New York	43
+2020-01-07	65	Oneida	28
+2020-01-07	67	Onondaga	20
+2020-01-07	71	Orange	38
+2020-01-07	81	Queens	35.33333333
+2020-01-07	85	Richmond	37.5
+2020-01-07	87	Rockland	32
+2020-01-07	101	Steuben	24
+2020-01-07	103	Suffolk	33
+2020-01-07	119	Westchester	30
+2020-01-08	1	Albany	31
+2020-01-08	5	Bronx	35
+2020-01-08	29	Erie	35
+2020-01-08	31	Essex	13
+2020-01-08	47	Kings	36.5
+2020-01-08	55	Monroe	28
+2020-01-08	59	Nassau	40
+2020-01-08	61	New York	43.66666667
+2020-01-08	65	Oneida	33
+2020-01-08	67	Onondaga	20
+2020-01-08	71	Orange	39
+2020-01-08	81	Queens	36
+2020-01-08	85	Richmond	35.5
+2020-01-08	87	Rockland	35
+2020-01-08	101	Steuben	16
+2020-01-08	103	Suffolk	40
+2020-01-08	119	Westchester	37
+2020-01-09	1	Albany	17
+2020-01-09	5	Bronx	28.66666667
+2020-01-09	29	Erie	31.5
+2020-01-09	31	Essex	6
+2020-01-09	47	Kings	34
+2020-01-09	55	Monroe	25.5
+2020-01-09	59	Nassau	34
+2020-01-09	61	New York	40.33333333
+2020-01-09	65	Oneida	28
+2020-01-09	67	Onondaga	15
+2020-01-09	71	Orange	33
+2020-01-09	81	Queens	29.33333333
+2020-01-09	85	Richmond	34.5
+2020-01-09	87	Rockland	32
+2020-01-09	101	Steuben	21
+2020-01-09	103	Suffolk	41
+2020-01-09	119	Westchester	32
+2020-01-10	1	Albany	32
+2020-01-10	5	Bronx	39.66666667
+2020-01-10	29	Erie	38.5
+2020-01-10	31	Essex	13
+2020-01-10	47	Kings	39
+2020-01-10	55	Monroe	39
+2020-01-10	59	Nassau	36
+2020-01-10	61	New York	45
+2020-01-10	65	Oneida	43
+2020-01-10	67	Onondaga	33
+2020-01-10	71	Orange	49
+2020-01-10	81	Queens	35
+2020-01-10	85	Richmond	40.5
+2020-01-10	87	Rockland	34
+2020-01-10	101	Steuben	34
+2020-01-10	103	Suffolk	33
+2020-01-10	119	Westchester	35
+2020-01-11	1	Albany	35
+2020-01-11	5	Bronx	46.33333333
+2020-01-11	29	Erie	22.5
+2020-01-11	31	Essex	6
+2020-01-11	47	Kings	47
+2020-01-11	55	Monroe	24
+2020-01-11	59	Nassau	40
+2020-01-11	61	New York	46
+2020-01-11	65	Oneida	33
+2020-01-11	67	Onondaga	25
+2020-01-11	71	Orange	43
+2020-01-11	81	Queens	36
+2020-01-11	85	Richmond	34
+2020-01-11	87	Rockland	41
+2020-01-11	101	Steuben	26
+2020-01-11	103	Suffolk	37
+2020-01-11	119	Westchester	42
+2020-01-12	1	Albany	17
+2020-01-12	5	Bronx	29.66666667
+2020-01-12	29	Erie	31
+2020-01-12	31	Essex	8
+2020-01-12	47	Kings	32
+2020-01-12	55	Monroe	22
+2020-01-12	59	Nassau	35
+2020-01-12	61	New York	36.33333333
+2020-01-12	65	Oneida	27
+2020-01-12	67	Onondaga	15
+2020-01-12	71	Orange	28
+2020-01-12	81	Queens	26.33333333
+2020-01-12	85	Richmond	29.5
+2020-01-12	87	Rockland	29
+2020-01-12	101	Steuben	7
+2020-01-12	103	Suffolk	32
+2020-01-12	119	Westchester	32
+2020-01-13	1	Albany	31
+2020-01-13	5	Bronx	43
+2020-01-13	29	Erie	34.66666667
+2020-01-13	31	Essex	13
+2020-01-13	47	Kings	44.5
+2020-01-13	55	Monroe	36
+2020-01-13	59	Nassau	33
+2020-01-13	61	New York	48.66666667
+2020-01-13	65	Oneida	33
+2020-01-13	67	Onondaga	36
+2020-01-13	71	Orange	35
+2020-01-13	81	Queens	32
+2020-01-13	85	Richmond	49.5
+2020-01-13	87	Rockland	36
+2020-01-13	101	Steuben	25
+2020-01-13	103	Suffolk	33
+2020-01-13	119	Westchester	36
+2020-01-14	1	Albany	53
+2020-01-14	5	Bronx	51
+2020-01-14	29	Erie	36.66666667
+2020-01-14	31	Essex	32
+2020-01-14	47	Kings	44
+2020-01-14	55	Monroe	45.5
+2020-01-14	59	Nassau	35
+2020-01-14	61	New York	51.33333333
+2020-01-14	65	Oneida	32
+2020-01-14	67	Onondaga	43
+2020-01-14	71	Orange	38
+2020-01-14	81	Queens	41.33333333
+2020-01-14	85	Richmond	48
+2020-01-14	87	Rockland	35
+2020-01-14	101	Steuben	45
+2020-01-14	103	Suffolk	35
+2020-01-14	119	Westchester	34
+2020-01-15	1	Albany	45
+2020-01-15	5	Bronx	51
+2020-01-15	29	Erie	34.33333333
+2020-01-15	31	Essex	10
+2020-01-15	47	Kings	47.5
+2020-01-15	55	Monroe	31.5
+2020-01-15	59	Nassau	52
+2020-01-15	61	New York	50.33333333
+2020-01-15	65	Oneida	31
+2020-01-15	67	Onondaga	35
+2020-01-15	71	Orange	47
+2020-01-15	81	Queens	51.66666667
+2020-01-15	85	Richmond	46
+2020-01-15	87	Rockland	40
+2020-01-15	101	Steuben	41
+2020-01-15	103	Suffolk	55
+2020-01-15	119	Westchester	42
+2020-01-16	1	Albany	26
+2020-01-16	5	Bronx	36
+2020-01-16	29	Erie	38
+2020-01-16	31	Essex	10
+2020-01-16	47	Kings	34
+2020-01-16	55	Monroe	29
+2020-01-16	59	Nassau	37
+2020-01-16	61	New York	39
+2020-01-16	65	Oneida	27
+2020-01-16	67	Onondaga	25
+2020-01-16	71	Orange	32
+2020-01-16	81	Queens	33.33333333
+2020-01-16	85	Richmond	32.5
+2020-01-16	87	Rockland	34
+2020-01-16	101	Steuben	20
+2020-01-16	103	Suffolk	31
+2020-01-16	119	Westchester	34
+2020-01-17	1	Albany	17
+2020-01-17	5	Bronx	24.33333333
+2020-01-17	29	Erie	30.5
+2020-01-17	31	Essex	12
+2020-01-17	47	Kings	31
+2020-01-17	55	Monroe	29
+2020-01-17	59	Nassau	33
+2020-01-17	61	New York	33.5
+2020-01-17	65	Oneida	29
+2020-01-17	67	Onondaga	18
+2020-01-17	71	Orange	29
+2020-01-17	81	Queens	26
+2020-01-17	85	Richmond	28
+2020-01-17	87	Rockland	30
+2020-01-17	101	Steuben	20
+2020-01-17	103	Suffolk	29
+2020-01-17	119	Westchester	29
+2020-01-18	1	Albany	24
+2020-01-18	5	Bronx	26
+2020-01-18	29	Erie	18
+2020-01-18	31	Essex	2
+2020-01-18	47	Kings	20.5
+2020-01-18	55	Monroe	23
+2020-01-18	59	Nassau	19
+2020-01-18	61	New York	25.5
+2020-01-18	65	Oneida	20
+2020-01-18	67	Onondaga	26
+2020-01-18	71	Orange	22
+2020-01-18	81	Queens	19.33333333
+2020-01-18	85	Richmond	20.5
+2020-01-18	87	Rockland	24
+2020-01-18	101	Steuben	26
+2020-01-18	103	Suffolk	18
+2020-01-18	119	Westchester	22
+2020-01-19	1	Albany	33
+2020-01-19	5	Bronx	32.33333333
+2020-01-19	29	Erie	34.5
+2020-01-19	31	Essex	19
+2020-01-19	47	Kings	32
+2020-01-19	55	Monroe	26.5
+2020-01-19	59	Nassau	33
+2020-01-19	61	New York	35.66666667
+2020-01-19	65	Oneida	35
+2020-01-19	67	Onondaga	22
+2020-01-19	71	Orange	36
+2020-01-19	81	Queens	28.33333333
+2020-01-19	85	Richmond	31.5
+2020-01-19	87	Rockland	30
+2020-01-19	101	Steuben	16
+2020-01-19	103	Suffolk	32
+2020-01-19	119	Westchester	30
+2020-01-20	1	Albany	15
+2020-01-20	5	Bronx	23
+2020-01-20	29	Erie	27.5
+2020-01-20	31	Essex	9
+2020-01-20	47	Kings	29.5
+2020-01-20	55	Monroe	21.5
+2020-01-20	59	Nassau	30
+2020-01-20	61	New York	29
+2020-01-20	65	Oneida	25
+2020-01-20	67	Onondaga	13
+2020-01-20	71	Orange	28
+2020-01-20	81	Queens	25
+2020-01-20	85	Richmond	26
+2020-01-20	87	Rockland	26
+2020-01-20	101	Steuben	13
+2020-01-20	103	Suffolk	28
+2020-01-20	119	Westchester	28
+2020-01-21	1	Albany	46
+2020-01-21	5	Bronx	26.66666667
+2020-01-21	29	Erie	25.5
+2020-01-21	31	Essex	9
+2020-01-21	47	Kings	33
+2020-01-21	55	Monroe	37
+2020-01-21	59	Nassau	30
+2020-01-21	61	New York	31.66666667
+2020-01-21	65	Oneida	42
+2020-01-21	67	Onondaga	28
+2020-01-21	71	Orange	45
+2020-01-21	81	Queens	30.33333333
+2020-01-21	85	Richmond	29
+2020-01-21	87	Rockland	27
+2020-01-21	101	Steuben	21
+2020-01-21	103	Suffolk	28
+2020-01-21	119	Westchester	29
+2020-01-22	1	Albany	57
+2020-01-22	5	Bronx	46.33333333
+2020-01-22	29	Erie	42.33333333
+2020-01-22	31	Essex	13
+2020-01-22	47	Kings	45
+2020-01-22	55	Monroe	55
+2020-01-22	59	Nassau	56
+2020-01-22	61	New York	39.33333333
+2020-01-22	65	Oneida	36
+2020-01-22	67	Onondaga	43
+2020-01-22	71	Orange	55
+2020-01-22	81	Queens	47.66666667
+2020-01-22	85	Richmond	44
+2020-01-22	87	Rockland	33
+2020-01-22	101	Steuben	28
+2020-01-22	103	Suffolk	50
+2020-01-22	119	Westchester	37
+2020-01-23	1	Albany	73
+2020-01-23	5	Bronx	64
+2020-01-23	29	Erie	52.33333333
+2020-01-23	31	Essex	9
+2020-01-23	47	Kings	57
+2020-01-23	55	Monroe	57
+2020-01-23	59	Nassau	66
+2020-01-23	61	New York	64.33333333
+2020-01-23	65	Oneida	56
+2020-01-23	71	Orange	59
+2020-01-23	81	Queens	61
+2020-01-23	85	Richmond	57.5
+2020-01-23	87	Rockland	54
+2020-01-23	101	Steuben	41
+2020-01-23	103	Suffolk	57
+2020-01-23	119	Westchester	54
+2020-01-24	1	Albany	101
+2020-01-24	5	Bronx	67
+2020-01-24	29	Erie	42.66666667
+2020-01-24	31	Essex	15
+2020-01-24	47	Kings	64
+2020-01-24	55	Monroe	59.5
+2020-01-24	59	Nassau	58
+2020-01-24	61	New York	62
+2020-01-24	65	Oneida	55
+2020-01-24	67	Onondaga	62
+2020-01-24	71	Orange	74
+2020-01-24	81	Queens	61.66666667
+2020-01-24	85	Richmond	60
+2020-01-24	87	Rockland	49
+2020-01-24	101	Steuben	51
+2020-01-24	103	Suffolk	53
+2020-01-24	119	Westchester	55
+2020-01-25	1	Albany	67
+2020-01-25	5	Bronx	26
+2020-01-25	29	Erie	23.66666667
+2020-01-25	31	Essex	8
+2020-01-25	47	Kings	20
+2020-01-25	55	Monroe	32.5
+2020-01-25	59	Nassau	18
+2020-01-25	61	New York	24
+2020-01-25	65	Oneida	28
+2020-01-25	67	Onondaga	53
+2020-01-25	71	Orange	25
+2020-01-25	81	Queens	21
+2020-01-25	85	Richmond	20.5
+2020-01-25	87	Rockland	21
+2020-01-25	101	Steuben	23
+2020-01-25	119	Westchester	19
+2020-01-26	1	Albany	24
+2020-01-26	5	Bronx	26.33333333
+2020-01-26	29	Erie	24.33333333
+2020-01-26	31	Essex	5
+2020-01-26	47	Kings	26
+2020-01-26	55	Monroe	23.5
+2020-01-26	59	Nassau	26
+2020-01-26	61	New York	26.33333333
+2020-01-26	65	Oneida	19
+2020-01-26	67	Onondaga	24
+2020-01-26	71	Orange	20
+2020-01-26	81	Queens	23.33333333
+2020-01-26	85	Richmond	23.5
+2020-01-26	87	Rockland	20
+2020-01-26	101	Steuben	13
+2020-01-26	103	Suffolk	23
+2020-01-26	119	Westchester	23
+2020-01-27	1	Albany	20
+2020-01-27	5	Bronx	30.66666667
+2020-01-27	29	Erie	28.33333333
+2020-01-27	31	Essex	7
+2020-01-27	47	Kings	27.5
+2020-01-27	55	Monroe	22
+2020-01-27	59	Nassau	30
+2020-01-27	61	New York	31.66666667
+2020-01-27	65	Oneida	19
+2020-01-27	71	Orange	25
+2020-01-27	81	Queens	27.66666667
+2020-01-27	85	Richmond	26.5
+2020-01-27	87	Rockland	23
+2020-01-27	101	Steuben	10
+2020-01-27	103	Suffolk	27
+2020-01-27	119	Westchester	25
+2020-01-28	1	Albany	10
+2020-01-28	5	Bronx	17.66666667
+2020-01-28	29	Erie	27
+2020-01-28	31	Essex	8
+2020-01-28	47	Kings	22
+2020-01-28	55	Monroe	19
+2020-01-28	59	Nassau	22
+2020-01-28	61	New York	25
+2020-01-28	65	Oneida	18
+2020-01-28	71	Orange	20
+2020-01-28	81	Queens	19.66666667
+2020-01-28	85	Richmond	19.5
+2020-01-28	87	Rockland	19
+2020-01-28	101	Steuben	12
+2020-01-28	103	Suffolk	18
+2020-01-28	119	Westchester	20
+2020-01-29	1	Albany	13
+2020-01-29	5	Bronx	22
+2020-01-29	29	Erie	30.33333333
+2020-01-29	31	Essex	10
+2020-01-29	47	Kings	25.5
+2020-01-29	55	Monroe	23
+2020-01-29	59	Nassau	22
+2020-01-29	61	New York	25.66666667
+2020-01-29	65	Oneida	24
+2020-01-29	71	Orange	23
+2020-01-29	81	Queens	20.66666667
+2020-01-29	85	Richmond	23
+2020-01-29	87	Rockland	21
+2020-01-29	101	Steuben	16
+2020-01-29	103	Suffolk	22
+2020-01-29	119	Westchester	22
+2020-01-30	1	Albany	37
+2020-01-30	5	Bronx	31.66666667
+2020-01-30	29	Erie	38
+2020-01-30	31	Essex	5
+2020-01-30	47	Kings	33.5
+2020-01-30	55	Monroe	39.5
+2020-01-30	59	Nassau	32
+2020-01-30	61	New York	35.33333333
+2020-01-30	65	Oneida	34
+2020-01-30	71	Orange	33
+2020-01-30	81	Queens	29.33333333
+2020-01-30	85	Richmond	33.5
+2020-01-30	87	Rockland	29
+2020-01-30	101	Steuben	24
+2020-01-30	103	Suffolk	33
+2020-01-30	119	Westchester	28
+2020-01-31	1	Albany	59
+2020-01-31	5	Bronx	39.66666667
+2020-01-31	29	Erie	47.66666667
+2020-01-31	31	Essex	6
+2020-01-31	47	Kings	35
+2020-01-31	55	Monroe	46.5
+2020-01-31	59	Nassau	27
+2020-01-31	61	New York	45.66666667
+2020-01-31	65	Oneida	43
+2020-01-31	67	Onondaga	62
+2020-01-31	71	Orange	53
+2020-01-31	81	Queens	30.33333333
+2020-01-31	85	Richmond	40
+2020-01-31	87	Rockland	39
+2020-01-31	101	Steuben	54
+2020-01-31	103	Suffolk	26
+2020-01-31	119	Westchester	30
+2020-02-01	29	Erie	41
+2020-02-01	31	Essex	33
+2020-02-01	55	Monroe	56
+2020-02-01	81	Queens	52.5
+2020-02-01	101	Steuben	60
+2020-02-02	29	Erie	35
+2020-02-02	31	Essex	10
+2020-02-02	55	Monroe	47.5
+2020-02-02	81	Queens	42
+2020-02-02	101	Steuben	33
+2020-02-03	29	Erie	33
+2020-02-03	31	Essex	12
+2020-02-03	55	Monroe	35.5
+2020-02-03	81	Queens	41.5
+2020-02-03	101	Steuben	22
+2020-02-04	1	Albany	51
+2020-02-04	29	Erie	31
+2020-02-04	31	Essex	8
+2020-02-04	55	Monroe	30
+2020-02-04	81	Queens	57.5
+2020-02-04	101	Steuben	31
+2020-02-05	1	Albany	19
+2020-02-05	29	Erie	12
+2020-02-05	31	Essex	6
+2020-02-05	55	Monroe	11.5
+2020-02-05	81	Queens	23
+2020-02-05	101	Steuben	17
+2020-02-06	1	Albany	39
+2020-02-06	29	Erie	10
+2020-02-06	31	Essex	6
+2020-02-06	55	Monroe	17.5
+2020-02-06	81	Queens	21.5
+2020-02-06	101	Steuben	20
+2020-02-07	1	Albany	22
+2020-02-07	29	Erie	25
+2020-02-07	31	Essex	9
+2020-02-07	55	Monroe	16.5
+2020-02-07	81	Queens	24
+2020-02-07	101	Steuben	8
+2020-02-08	1	Albany	18
+2020-02-08	29	Erie	28
+2020-02-08	31	Essex	16
+2020-02-08	55	Monroe	24
+2020-02-08	81	Queens	28.5
+2020-02-08	101	Steuben	20
+2020-02-09	1	Albany	54
+2020-02-09	29	Erie	33
+2020-02-09	31	Essex	11
+2020-02-09	55	Monroe	35
+2020-02-09	81	Queens	33.5
+2020-02-09	101	Steuben	34
+2020-02-10	1	Albany	47
+2020-02-10	29	Erie	35
+2020-02-10	31	Essex	9
+2020-02-10	55	Monroe	36.5
+2020-02-10	81	Queens	32
+2020-02-10	101	Steuben	20
+2020-02-11	1	Albany	61
+2020-02-11	29	Erie	40
+2020-02-11	31	Essex	11
+2020-02-11	55	Monroe	45.5
+2020-02-11	81	Queens	29.5
+2020-02-11	101	Steuben	32
+2020-02-12	1	Albany	34
+2020-02-12	29	Erie	33
+2020-02-12	31	Essex	12
+2020-02-12	55	Monroe	37.5
+2020-02-12	81	Queens	32.5
+2020-02-12	101	Steuben	39
+2020-02-13	1	Albany	44
+2020-02-13	29	Erie	33
+2020-02-13	31	Essex	14
+2020-02-13	55	Monroe	33
+2020-02-13	81	Queens	26.5
+2020-02-13	101	Steuben	18
+2020-02-14	1	Albany	17
+2020-02-14	29	Erie	37
+2020-02-14	31	Essex	16
+2020-02-14	55	Monroe	31
+2020-02-14	81	Queens	22
+2020-02-14	101	Steuben	22
+2020-02-15	1	Albany	22
+2020-02-15	29	Erie	25
+2020-02-15	31	Essex	3
+2020-02-15	55	Monroe	27.5
+2020-02-15	81	Queens	21.5
+2020-02-15	101	Steuben	31
+2020-02-16	1	Albany	43
+2020-02-16	29	Erie	33
+2020-02-16	31	Essex	20
+2020-02-16	55	Monroe	41
+2020-02-16	81	Queens	36.5
+2020-02-16	101	Steuben	34
+2020-02-17	1	Albany	46
+2020-02-17	29	Erie	28
+2020-02-17	31	Essex	17
+2020-02-17	55	Monroe	25
+2020-02-17	81	Queens	45.5
+2020-02-17	101	Steuben	48
+2020-02-18	1	Albany	35
+2020-02-18	29	Erie	29
+2020-02-18	31	Essex	8
+2020-02-18	55	Monroe	34.5
+2020-02-18	81	Queens	35.5
+2020-02-18	101	Steuben	46
+2020-02-19	1	Albany	16
+2020-02-19	29	Erie	24
+2020-02-19	31	Essex	12
+2020-02-19	55	Monroe	19.5
+2020-02-19	81	Queens	29
+2020-02-19	101	Steuben	20
+2020-02-20	1	Albany	14
+2020-02-20	29	Erie	25
+2020-02-20	31	Essex	10
+2020-02-20	55	Monroe	20
+2020-02-20	81	Queens	19
+2020-02-20	101	Steuben	19
+2020-02-21	1	Albany	23
+2020-02-21	29	Erie	20
+2020-02-21	31	Essex	6
+2020-02-21	55	Monroe	30.5
+2020-02-21	81	Queens	18.5
+2020-02-21	101	Steuben	22
+2020-02-22	1	Albany	51
+2020-02-22	29	Erie	28
+2020-02-22	31	Essex	28
+2020-02-22	55	Monroe	34
+2020-02-22	81	Queens	34.5
+2020-02-22	101	Steuben	36
+2020-02-23	1	Albany	61
+2020-02-23	29	Erie	36
+2020-02-23	31	Essex	23
+2020-02-23	55	Monroe	42
+2020-02-23	81	Queens	46.5
+2020-02-23	101	Steuben	35
+2020-02-24	1	Albany	55
+2020-02-24	29	Erie	53
+2020-02-24	31	Essex	23
+2020-02-24	55	Monroe	53.5
+2020-02-24	81	Queens	53.5
+2020-02-24	101	Steuben	30
+2020-02-25	1	Albany	68
+2020-02-25	29	Erie	40
+2020-02-25	31	Essex	35
+2020-02-25	55	Monroe	48.5
+2020-02-25	81	Queens	40.5
+2020-02-25	101	Steuben	59
+2020-02-26	1	Albany	63
+2020-02-26	29	Erie	20
+2020-02-26	31	Essex	17
+2020-02-26	55	Monroe	37.5
+2020-02-26	81	Queens	21.5
+2020-02-26	101	Steuben	35
+2020-02-27	1	Albany	23
+2020-02-27	29	Erie	15
+2020-02-27	31	Essex	3
+2020-02-27	55	Monroe	15.5
+2020-02-27	81	Queens	10
+2020-02-27	101	Steuben	8
+2020-02-28	1	Albany	14
+2020-02-28	29	Erie	18
+2020-02-28	31	Essex	2
+2020-02-28	55	Monroe	16.5
+2020-02-28	81	Queens	24.5
+2020-02-28	101	Steuben	15
+2020-02-29	1	Albany	21
+2020-02-29	29	Erie	26
+2020-02-29	31	Essex	0
+2020-02-29	55	Monroe	25
+2020-02-29	81	Queens	17.5
+2020-02-29	101	Steuben	15
+2020-03-01	1	Albany	23
+2020-03-01	29	Erie	28
+2020-03-01	31	Essex	0
+2020-03-01	55	Monroe	29
+2020-03-01	81	Queens	22.5
+2020-03-01	101	Steuben	20
+2020-03-02	1	Albany	42
+2020-03-02	29	Erie	43
+2020-03-02	31	Essex	0
+2020-03-02	55	Monroe	37.5
+2020-03-02	81	Queens	46.5
+2020-03-02	101	Steuben	33
+2020-03-03	1	Albany	55
+2020-03-03	29	Erie	33
+2020-03-03	31	Essex	7
+2020-03-03	55	Monroe	47.5
+2020-03-03	81	Queens	46
+2020-03-03	101	Steuben	24
+2020-03-04	1	Albany	31
+2020-03-04	29	Erie	26
+2020-03-04	31	Essex	16
+2020-03-04	55	Monroe	30
+2020-03-04	81	Queens	20
+2020-03-04	101	Steuben	24
+2020-03-05	1	Albany	18
+2020-03-05	29	Erie	18
+2020-03-05	31	Essex	13
+2020-03-05	55	Monroe	14.5
+2020-03-05	81	Queens	21.5
+2020-03-05	101	Steuben	20
+2020-03-06	1	Albany	40
+2020-03-06	29	Erie	23
+2020-03-06	31	Essex	14
+2020-03-06	55	Monroe	27
+2020-03-06	81	Queens	23.5
+2020-03-06	101	Steuben	36
+2020-03-07	1	Albany	15
+2020-03-07	29	Erie	15
+2020-03-07	31	Essex	8
+2020-03-07	55	Monroe	14.5
+2020-03-07	81	Queens	12
+2020-03-07	101	Steuben	14
+2020-03-08	1	Albany	29
+2020-03-08	29	Erie	23
+2020-03-08	31	Essex	12
+2020-03-08	55	Monroe	24
+2020-03-08	81	Queens	18.5
+2020-03-08	101	Steuben	21
+2020-03-09	1	Albany	32
+2020-03-09	29	Erie	44
+2020-03-09	31	Essex	28
+2020-03-09	55	Monroe	45
+2020-03-09	81	Queens	46
+2020-03-09	101	Steuben	30
+2020-03-10	1	Albany	34
+2020-03-10	29	Erie	32
+2020-03-10	31	Essex	18
+2020-03-10	55	Monroe	34
+2020-03-10	81	Queens	37
+2020-03-10	101	Steuben	24
+2020-03-11	1	Albany	24
+2020-03-11	29	Erie	20
+2020-03-11	31	Essex	11
+2020-03-11	55	Monroe	22
+2020-03-11	81	Queens	21.5
+2020-03-11	101	Steuben	29
+2020-03-12	1	Albany	30
+2020-03-12	29	Erie	35
+2020-03-12	31	Essex	16
+2020-03-12	55	Monroe	35
+2020-03-12	81	Queens	31
+2020-03-12	101	Steuben	47
+2020-03-13	1	Albany	18
+2020-03-13	29	Erie	24
+2020-03-13	31	Essex	8
+2020-03-13	55	Monroe	24
+2020-03-13	81	Queens	14.5
+2020-03-13	101	Steuben	15
+2020-03-14	1	Albany	16
+2020-03-14	29	Erie	21
+2020-03-14	31	Essex	11
+2020-03-14	55	Monroe	18.5
+2020-03-14	81	Queens	12
+2020-03-14	101	Steuben	23
+2020-03-15	1	Albany	19
+2020-03-15	29	Erie	14
+2020-03-15	31	Essex	12
+2020-03-15	55	Monroe	16.5
+2020-03-15	81	Queens	14.5
+2020-03-15	101	Steuben	20
+2020-03-16	1	Albany	20
+2020-03-16	29	Erie	15
+2020-03-16	31	Essex	7
+2020-03-16	55	Monroe	22
+2020-03-16	81	Queens	15.5
+2020-03-16	101	Steuben	24
+2020-03-17	1	Albany	27
+2020-03-17	29	Erie	32
+2020-03-17	31	Essex	13
+2020-03-17	55	Monroe	35.5
+2020-03-17	81	Queens	20
+2020-03-17	101	Steuben	23
+2020-03-18	1	Albany	21
+2020-03-18	29	Erie	25
+2020-03-18	31	Essex	13
+2020-03-18	55	Monroe	27
+2020-03-18	81	Queens	25
+2020-03-18	101	Steuben	44
+2020-03-19	1	Albany	22
+2020-03-19	29	Erie	23
+2020-03-19	31	Essex	9
+2020-03-19	55	Monroe	28
+2020-03-19	81	Queens	15.5
+2020-03-19	101	Steuben	19
+2020-03-20	1	Albany	23
+2020-03-20	29	Erie	22
+2020-03-20	31	Essex	7
+2020-03-20	55	Monroe	18.5
+2020-03-20	81	Queens	32
+2020-03-20	101	Steuben	15
+2020-03-21	1	Albany	18
+2020-03-21	29	Erie	20
+2020-03-21	31	Essex	18
+2020-03-21	55	Monroe	20
+2020-03-21	81	Queens	10
+2020-03-21	101	Steuben	17
+2020-03-22	1	Albany	20
+2020-03-22	29	Erie	19
+2020-03-22	31	Essex	12
+2020-03-22	55	Monroe	24
+2020-03-22	81	Queens	19
+2020-03-22	101	Steuben	23
+2020-03-23	1	Albany	23
+2020-03-23	29	Erie	17
+2020-03-23	31	Essex	8
+2020-03-23	55	Monroe	22
+2020-03-23	81	Queens	10.5
+2020-03-23	101	Steuben	18
+2020-03-24	1	Albany	30
+2020-03-24	29	Erie	20
+2020-03-24	31	Essex	13
+2020-03-24	55	Monroe	16
+2020-03-24	81	Queens	12.5
+2020-03-24	101	Steuben	16
+2020-03-25	1	Albany	45
+2020-03-25	29	Erie	25
+2020-03-25	31	Essex	16
+2020-03-25	55	Monroe	18
+2020-03-25	81	Queens	17
+2020-03-25	101	Steuben	23
+2020-03-26	1	Albany	38
+2020-03-26	29	Erie	27
+2020-03-26	31	Essex	10
+2020-03-26	55	Monroe	24
+2020-03-26	81	Queens	24.5
+2020-03-26	101	Steuben	21
+2020-03-27	1	Albany	19
+2020-03-27	29	Erie	17
+2020-03-27	31	Essex	11
+2020-03-27	55	Monroe	18.5
+2020-03-27	81	Queens	24.5
+2020-03-27	101	Steuben	25
+\.
+
+
+--
+-- TOC entry 2694 (class 2606 OID 16991)
+-- Name: ny_daily_aqi ny_daily_aqi_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.ny_daily_aqi
+    ADD CONSTRAINT ny_daily_aqi_pkey PRIMARY KEY (date, county_code);
+
+
+--
+-- TOC entry 2695 (class 2606 OID 17010)
+-- Name: ny_daily_aqi ny_daily_aqi_county_code_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.ny_daily_aqi
+    ADD CONSTRAINT ny_daily_aqi_county_code_fkey FOREIGN KEY (county_code) REFERENCES public.ny_county(county_code);
+
+
+-- Completed on 2020-03-30 13:55:04
+
+--
+-- PostgreSQL database dump complete
+--
+

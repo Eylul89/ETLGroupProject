@@ -1,0 +1,1301 @@
+,Daily Mean PM2.5 Concentration,UNITS,DAILY_AQI_VALUE,Site Name,CBSA_NAME,STATE,fips,county,date
+0,1.9,ug/m3 LC,8,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-01
+1,4.1,ug/m3 LC,17,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-01
+2,9.1,ug/m3 LC,38,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-02
+3,13.4,ug/m3 LC,54,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-03
+4,12.9,ug/m3 LC,53,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-04
+5,2.8,ug/m3 LC,12,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-05
+6,7.0,ug/m3 LC,29,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-06
+7,6.9,ug/m3 LC,29,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-07
+8,7.4,ug/m3 LC,31,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-08
+9,4.0,ug/m3 LC,17,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-09
+10,7.6,ug/m3 LC,32,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-10
+11,8.4,ug/m3 LC,35,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-11
+12,4.1,ug/m3 LC,17,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-12
+13,7.4,ug/m3 LC,31,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-13
+14,13.1,ug/m3 LC,53,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-14
+15,10.9,ug/m3 LC,45,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-15
+16,6.3,ug/m3 LC,26,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-16
+17,4.1,ug/m3 LC,17,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-17
+18,5.7,ug/m3 LC,24,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-18
+19,8.0,ug/m3 LC,33,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-19
+20,3.5,ug/m3 LC,15,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-20
+21,11.0,ug/m3 LC,46,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-21
+22,14.8,ug/m3 LC,57,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-22
+23,22.4,ug/m3 LC,73,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-23
+24,35.7,ug/m3 LC,101,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-24
+25,19.9,ug/m3 LC,67,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-25
+26,5.8,ug/m3 LC,24,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-26
+27,4.8,ug/m3 LC,20,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-27
+28,2.4,ug/m3 LC,10,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-28
+29,3.2,ug/m3 LC,13,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-29
+30,8.9,ug/m3 LC,37,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-30
+31,16.1,ug/m3 LC,59,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-31
+32,12.3,ug/m3 LC,51,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-04
+33,4.6,ug/m3 LC,19,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-05
+34,9.4,ug/m3 LC,39,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-06
+35,5.2,ug/m3 LC,22,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-07
+36,4.3,ug/m3 LC,18,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-08
+37,13.3,ug/m3 LC,54,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-09
+38,11.2,ug/m3 LC,47,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-10
+39,16.9,ug/m3 LC,61,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-11
+40,8.2,ug/m3 LC,34,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-12
+41,10.6,ug/m3 LC,44,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-13
+42,4.1,ug/m3 LC,17,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-14
+43,5.2,ug/m3 LC,22,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-15
+44,10.4,ug/m3 LC,43,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-16
+45,11.1,ug/m3 LC,46,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-17
+46,8.5,ug/m3 LC,35,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-18
+47,3.8,ug/m3 LC,16,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-19
+48,3.3,ug/m3 LC,14,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-20
+49,5.4,ug/m3 LC,23,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-21
+50,12.1,ug/m3 LC,51,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-22
+51,16.8,ug/m3 LC,61,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-23
+52,14.1,ug/m3 LC,55,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-24
+53,20.4,ug/m3 LC,68,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-25
+54,18.0,ug/m3 LC,63,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-26
+55,5.4,ug/m3 LC,23,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-27
+56,3.3,ug/m3 LC,14,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-28
+57,5.0,ug/m3 LC,21,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-02-29
+58,5.6,ug/m3 LC,23,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-01
+59,10.1,ug/m3 LC,42,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-02
+60,13.8,ug/m3 LC,55,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-03
+61,7.4,ug/m3 LC,31,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-04
+62,4.2,ug/m3 LC,18,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-05
+63,9.6,ug/m3 LC,40,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-06
+64,3.7,ug/m3 LC,15,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-07
+65,7.0,ug/m3 LC,29,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-08
+66,7.7,ug/m3 LC,32,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-09
+67,8.2,ug/m3 LC,34,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-10
+68,5.7,ug/m3 LC,24,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-11
+69,7.3,ug/m3 LC,30,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-12
+70,4.2,ug/m3 LC,18,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-13
+71,3.8,ug/m3 LC,16,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-14
+72,4.6,ug/m3 LC,19,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-15
+73,4.7,ug/m3 LC,20,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-16
+74,6.5,ug/m3 LC,27,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-17
+75,5.1,ug/m3 LC,21,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-18
+76,5.2,ug/m3 LC,22,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-19
+77,5.4,ug/m3 LC,23,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-20
+78,4.2,ug/m3 LC,18,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-21
+79,4.9,ug/m3 LC,20,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-22
+80,5.4,ug/m3 LC,23,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-23
+81,7.2,ug/m3 LC,30,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-24
+82,10.7,ug/m3 LC,45,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-25
+83,9.1,ug/m3 LC,38,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-26
+84,4.5,ug/m3 LC,19,ALBANY COUNTY HEALTH DEPT,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-03-27
+85,1.9,ug/m3 LC,8,LOUDONVILLE,"Albany-Schenectady-Troy, NY",New York,1,Albany,2020-01-01
+86,7.3,ug/m3 LC,30,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-01
+87,13.5,ug/m3 LC,54,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-02
+88,18.1,ug/m3 LC,64,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-03
+89,12.2,ug/m3 LC,51,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-04
+90,6.7,ug/m3 LC,28,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-05
+91,10.8,ug/m3 LC,45,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-06
+92,9.3,ug/m3 LC,39,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-07
+93,8.6,ug/m3 LC,36,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-08
+94,8.0,ug/m3 LC,33,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-09
+95,11.2,ug/m3 LC,47,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-10
+96,11.6,ug/m3 LC,48,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-11
+97,7.7,ug/m3 LC,32,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-12
+98,10.7,ug/m3 LC,45,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-13
+99,11.6,ug/m3 LC,48,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-14
+100,10.7,ug/m3 LC,45,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-15
+101,7.9,ug/m3 LC,33,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-16
+102,7.1,ug/m3 LC,30,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-17
+103,6.5,ug/m3 LC,27,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-18
+104,7.8,ug/m3 LC,33,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-19
+105,6.4,ug/m3 LC,27,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-20
+106,6.9,ug/m3 LC,29,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-21
+107,9.4,ug/m3 LC,39,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-22
+108,15.8,ug/m3 LC,59,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-23
+109,16.4,ug/m3 LC,60,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-24
+110,5.1,ug/m3 LC,21,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-25
+111,6.1,ug/m3 LC,25,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-26
+112,7.4,ug/m3 LC,31,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-27
+113,4.8,ug/m3 LC,20,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-28
+114,7.0,ug/m3 LC,29,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-29
+115,7.8,ug/m3 LC,33,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-30
+116,9.1,ug/m3 LC,38,MORRISANIA,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-31
+117,2.7,ug/m3 LC,11,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-01
+118,4.1,ug/m3 LC,17,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-01
+119,11.3,ug/m3 LC,47,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-02
+120,15.8,ug/m3 LC,59,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-03
+121,12.0,ug/m3 LC,50,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-04
+122,2.6,ug/m3 LC,11,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-05
+123,9.2,ug/m3 LC,38,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-06
+124,9.0,ug/m3 LC,38,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-07
+125,8.4,ug/m3 LC,35,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-08
+126,4.7,ug/m3 LC,20,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-09
+127,8.0,ug/m3 LC,33,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-10
+128,10.1,ug/m3 LC,42,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-11
+129,5.2,ug/m3 LC,22,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-12
+130,10.3,ug/m3 LC,43,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-13
+131,15.5,ug/m3 LC,58,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-14
+132,15.1,ug/m3 LC,57,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-15
+133,9.5,ug/m3 LC,40,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-16
+134,3.4,ug/m3 LC,14,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-17
+135,6.2,ug/m3 LC,26,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-18
+136,7.3,ug/m3 LC,30,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-19
+137,3.2,ug/m3 LC,13,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-20
+138,4.8,ug/m3 LC,20,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-21
+139,11.0,ug/m3 LC,46,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-22
+140,21.9,ug/m3 LC,72,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-23
+141,24.5,ug/m3 LC,77,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-24
+142,8.5,ug/m3 LC,35,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-25
+143,5.9,ug/m3 LC,25,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-26
+144,6.8,ug/m3 LC,28,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-27
+145,2.6,ug/m3 LC,11,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-28
+146,3.2,ug/m3 LC,13,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-29
+147,6.5,ug/m3 LC,27,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-30
+148,10.1,ug/m3 LC,42,IS 52,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-31
+149,7.5,ug/m3 LC,31,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-01
+150,13.0,ug/m3 LC,53,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-02
+151,17.1,ug/m3 LC,62,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-03
+152,12.7,ug/m3 LC,52,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-04
+153,6.4,ug/m3 LC,27,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-05
+154,10.3,ug/m3 LC,43,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-06
+155,8.2,ug/m3 LC,34,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-07
+156,8.2,ug/m3 LC,34,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-08
+157,8.0,ug/m3 LC,33,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-09
+158,9.4,ug/m3 LC,39,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-10
+159,11.7,ug/m3 LC,49,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-11
+160,8.3,ug/m3 LC,35,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-12
+161,9.8,ug/m3 LC,41,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-13
+162,11.3,ug/m3 LC,47,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-14
+163,12.2,ug/m3 LC,51,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-15
+164,8.5,ug/m3 LC,35,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-16
+165,7.0,ug/m3 LC,29,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-17
+166,5.9,ug/m3 LC,25,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-18
+167,8.2,ug/m3 LC,34,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-19
+168,6.9,ug/m3 LC,29,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-20
+169,7.4,ug/m3 LC,31,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-21
+170,13.3,ug/m3 LC,54,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-22
+171,17.0,ug/m3 LC,61,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-23
+172,18.5,ug/m3 LC,64,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-24
+173,5.3,ug/m3 LC,22,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-25
+174,7.0,ug/m3 LC,29,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-26
+175,7.9,ug/m3 LC,33,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-27
+176,5.3,ug/m3 LC,22,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-28
+177,5.7,ug/m3 LC,24,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-29
+178,8.4,ug/m3 LC,35,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-30
+179,9.4,ug/m3 LC,39,IS 74,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-31
+180,3.2,ug/m3 LC,13,PFIZER LAB SITE,"New York-Newark-Jersey City, NY-NJ-PA",New York,5,Bronx,2020-01-01
+181,8.1,ug/m3 LC,34,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-01
+182,8.9,ug/m3 LC,37,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-02
+183,11.1,ug/m3 LC,46,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-03
+184,6.7,ug/m3 LC,28,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-04
+185,6.0,ug/m3 LC,25,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-05
+186,8.1,ug/m3 LC,34,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-06
+187,8.5,ug/m3 LC,35,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-07
+188,8.3,ug/m3 LC,35,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-08
+189,8.7,ug/m3 LC,36,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-09
+190,9.6,ug/m3 LC,40,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-10
+191,5.5,ug/m3 LC,23,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-11
+192,7.8,ug/m3 LC,33,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-12
+193,8.4,ug/m3 LC,35,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-13
+194,8.6,ug/m3 LC,36,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-14
+195,8.9,ug/m3 LC,37,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-15
+196,9.0,ug/m3 LC,38,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-16
+197,7.9,ug/m3 LC,33,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-17
+198,4.5,ug/m3 LC,19,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-18
+199,8.3,ug/m3 LC,35,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-19
+200,7.1,ug/m3 LC,30,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-20
+201,6.2,ug/m3 LC,26,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-21
+202,10.4,ug/m3 LC,43,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-22
+203,15.0,ug/m3 LC,57,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-23
+204,11.0,ug/m3 LC,46,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-24
+205,6.1,ug/m3 LC,25,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-25
+206,6.1,ug/m3 LC,25,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-26
+207,6.9,ug/m3 LC,29,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-27
+208,6.2,ug/m3 LC,26,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-28
+209,7.5,ug/m3 LC,31,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-29
+210,10.8,ug/m3 LC,45,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-30
+211,12.1,ug/m3 LC,51,BUFFALO,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-31
+212,8.4,ug/m3 LC,35,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-01
+213,9.6,ug/m3 LC,40,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-02
+214,10.0,ug/m3 LC,42,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-03
+215,5.6,ug/m3 LC,23,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-04
+216,5.7,ug/m3 LC,24,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-05
+217,7.9,ug/m3 LC,33,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-06
+218,8.0,ug/m3 LC,33,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-07
+219,8.5,ug/m3 LC,35,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-08
+220,8.1,ug/m3 LC,34,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-13
+221,8.7,ug/m3 LC,36,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-14
+222,8.0,ug/m3 LC,33,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-15
+223,10.7,ug/m3 LC,45,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-22
+224,11.6,ug/m3 LC,48,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-23
+225,9.2,ug/m3 LC,38,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-24
+226,5.4,ug/m3 LC,23,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-25
+227,5.7,ug/m3 LC,24,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-26
+228,7.1,ug/m3 LC,30,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-27
+229,6.8,ug/m3 LC,28,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-28
+230,7.0,ug/m3 LC,29,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-29
+231,8.4,ug/m3 LC,35,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-30
+232,11.5,ug/m3 LC,48,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-31
+233,9.9,ug/m3 LC,41,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-01
+234,8.5,ug/m3 LC,35,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-02
+235,7.9,ug/m3 LC,33,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-03
+236,7.5,ug/m3 LC,31,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-04
+237,2.9,ug/m3 LC,12,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-05
+238,2.4,ug/m3 LC,10,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-06
+239,6.1,ug/m3 LC,25,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-07
+240,6.7,ug/m3 LC,28,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-08
+241,8.0,ug/m3 LC,33,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-09
+242,8.5,ug/m3 LC,35,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-10
+243,9.7,ug/m3 LC,40,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-11
+244,8.0,ug/m3 LC,33,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-12
+245,8.0,ug/m3 LC,33,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-13
+246,8.9,ug/m3 LC,37,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-14
+247,6.0,ug/m3 LC,25,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-15
+248,8.0,ug/m3 LC,33,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-16
+249,6.6,ug/m3 LC,28,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-17
+250,7.0,ug/m3 LC,29,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-18
+251,5.7,ug/m3 LC,24,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-19
+252,5.9,ug/m3 LC,25,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-20
+253,4.9,ug/m3 LC,20,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-21
+254,6.6,ug/m3 LC,28,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-22
+255,8.6,ug/m3 LC,36,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-23
+256,12.9,ug/m3 LC,53,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-24
+257,9.5,ug/m3 LC,40,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-25
+258,4.8,ug/m3 LC,20,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-26
+259,3.6,ug/m3 LC,15,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-27
+260,4.3,ug/m3 LC,18,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-28
+261,6.3,ug/m3 LC,26,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-02-29
+262,6.8,ug/m3 LC,28,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-01
+263,10.4,ug/m3 LC,43,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-02
+264,7.8,ug/m3 LC,33,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-03
+265,6.3,ug/m3 LC,26,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-04
+266,4.4,ug/m3 LC,18,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-05
+267,5.6,ug/m3 LC,23,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-06
+268,3.6,ug/m3 LC,15,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-07
+269,5.4,ug/m3 LC,23,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-08
+270,10.6,ug/m3 LC,44,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-09
+271,7.7,ug/m3 LC,32,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-10
+272,4.7,ug/m3 LC,20,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-11
+273,8.3,ug/m3 LC,35,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-12
+274,5.8,ug/m3 LC,24,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-13
+275,5.1,ug/m3 LC,21,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-14
+276,3.4,ug/m3 LC,14,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-15
+277,3.7,ug/m3 LC,15,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-16
+278,7.7,ug/m3 LC,32,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-17
+279,5.9,ug/m3 LC,25,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-18
+280,5.5,ug/m3 LC,23,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-19
+281,5.3,ug/m3 LC,22,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-20
+282,4.7,ug/m3 LC,20,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-21
+283,4.5,ug/m3 LC,19,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-22
+284,4.1,ug/m3 LC,17,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-23
+285,4.7,ug/m3 LC,20,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-24
+286,6.1,ug/m3 LC,25,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-25
+287,6.5,ug/m3 LC,27,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-26
+288,4.0,ug/m3 LC,17,Buffalo Near-Road,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-03-27
+289,7.8,ug/m3 LC,33,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-01
+290,7.1,ug/m3 LC,30,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-02
+291,9.6,ug/m3 LC,40,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-03
+292,5.5,ug/m3 LC,23,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-04
+293,5.1,ug/m3 LC,21,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-05
+294,7.4,ug/m3 LC,31,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-06
+295,7.0,ug/m3 LC,29,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-07
+296,8.4,ug/m3 LC,35,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-08
+297,6.5,ug/m3 LC,27,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-09
+298,8.9,ug/m3 LC,37,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-10
+299,5.3,ug/m3 LC,22,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-11
+300,6.9,ug/m3 LC,29,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-12
+301,8.4,ug/m3 LC,35,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-13
+302,9.0,ug/m3 LC,38,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-14
+303,7.8,ug/m3 LC,33,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-15
+304,9.2,ug/m3 LC,38,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-16
+305,6.7,ug/m3 LC,28,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-17
+306,4.1,ug/m3 LC,17,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-18
+307,8.2,ug/m3 LC,34,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-19
+308,5.9,ug/m3 LC,25,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-20
+309,6.1,ug/m3 LC,25,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-21
+310,9.3,ug/m3 LC,39,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-22
+311,12.4,ug/m3 LC,52,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-23
+312,10.5,ug/m3 LC,44,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-24
+313,5.5,ug/m3 LC,23,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-25
+314,5.7,ug/m3 LC,24,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-26
+315,6.3,ug/m3 LC,26,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-27
+316,6.4,ug/m3 LC,27,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-28
+317,7.5,ug/m3 LC,31,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-29
+318,8.1,ug/m3 LC,34,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-30
+319,10.6,ug/m3 LC,44,BROOKSIDE TERRACE,"Buffalo-Cheektowaga-Niagara Falls, NY",New York,29,Erie,2020-01-31
+320,-1.7,ug/m3 LC,0,WHITEFACE BASE,,New York,31,Essex,2020-01-01
+321,1.5,ug/m3 LC,6,WHITEFACE BASE,,New York,31,Essex,2020-01-04
+322,1.4,ug/m3 LC,6,WHITEFACE BASE,,New York,31,Essex,2020-01-05
+323,1.1,ug/m3 LC,5,WHITEFACE BASE,,New York,31,Essex,2020-01-06
+324,1.3,ug/m3 LC,5,WHITEFACE BASE,,New York,31,Essex,2020-01-07
+325,3.2,ug/m3 LC,13,WHITEFACE BASE,,New York,31,Essex,2020-01-08
+326,1.5,ug/m3 LC,6,WHITEFACE BASE,,New York,31,Essex,2020-01-09
+327,3.1,ug/m3 LC,13,WHITEFACE BASE,,New York,31,Essex,2020-01-10
+328,1.4,ug/m3 LC,6,WHITEFACE BASE,,New York,31,Essex,2020-01-11
+329,1.9,ug/m3 LC,8,WHITEFACE BASE,,New York,31,Essex,2020-01-12
+330,3.0,ug/m3 LC,13,WHITEFACE BASE,,New York,31,Essex,2020-01-13
+331,7.7,ug/m3 LC,32,WHITEFACE BASE,,New York,31,Essex,2020-01-14
+332,2.4,ug/m3 LC,10,WHITEFACE BASE,,New York,31,Essex,2020-01-15
+333,2.3,ug/m3 LC,10,WHITEFACE BASE,,New York,31,Essex,2020-01-16
+334,2.9,ug/m3 LC,12,WHITEFACE BASE,,New York,31,Essex,2020-01-17
+335,0.4,ug/m3 LC,2,WHITEFACE BASE,,New York,31,Essex,2020-01-18
+336,4.5,ug/m3 LC,19,WHITEFACE BASE,,New York,31,Essex,2020-01-19
+337,2.1,ug/m3 LC,9,WHITEFACE BASE,,New York,31,Essex,2020-01-20
+338,2.1,ug/m3 LC,9,WHITEFACE BASE,,New York,31,Essex,2020-01-21
+339,3.1,ug/m3 LC,13,WHITEFACE BASE,,New York,31,Essex,2020-01-22
+340,2.2,ug/m3 LC,9,WHITEFACE BASE,,New York,31,Essex,2020-01-23
+341,3.6,ug/m3 LC,15,WHITEFACE BASE,,New York,31,Essex,2020-01-24
+342,2.0,ug/m3 LC,8,WHITEFACE BASE,,New York,31,Essex,2020-01-25
+343,1.1,ug/m3 LC,5,WHITEFACE BASE,,New York,31,Essex,2020-01-26
+344,1.7,ug/m3 LC,7,WHITEFACE BASE,,New York,31,Essex,2020-01-27
+345,2.0,ug/m3 LC,8,WHITEFACE BASE,,New York,31,Essex,2020-01-28
+346,2.5,ug/m3 LC,10,WHITEFACE BASE,,New York,31,Essex,2020-01-29
+347,1.1,ug/m3 LC,5,WHITEFACE BASE,,New York,31,Essex,2020-01-30
+348,1.5,ug/m3 LC,6,WHITEFACE BASE,,New York,31,Essex,2020-01-31
+349,7.8,ug/m3 LC,33,WHITEFACE BASE,,New York,31,Essex,2020-02-01
+350,2.3,ug/m3 LC,10,WHITEFACE BASE,,New York,31,Essex,2020-02-02
+351,2.8,ug/m3 LC,12,WHITEFACE BASE,,New York,31,Essex,2020-02-03
+352,1.8,ug/m3 LC,8,WHITEFACE BASE,,New York,31,Essex,2020-02-04
+353,1.5,ug/m3 LC,6,WHITEFACE BASE,,New York,31,Essex,2020-02-05
+354,1.5,ug/m3 LC,6,WHITEFACE BASE,,New York,31,Essex,2020-02-06
+355,2.2,ug/m3 LC,9,WHITEFACE BASE,,New York,31,Essex,2020-02-07
+356,3.8,ug/m3 LC,16,WHITEFACE BASE,,New York,31,Essex,2020-02-08
+357,2.7,ug/m3 LC,11,WHITEFACE BASE,,New York,31,Essex,2020-02-09
+358,2.1,ug/m3 LC,9,WHITEFACE BASE,,New York,31,Essex,2020-02-10
+359,2.7,ug/m3 LC,11,WHITEFACE BASE,,New York,31,Essex,2020-02-11
+360,2.9,ug/m3 LC,12,WHITEFACE BASE,,New York,31,Essex,2020-02-12
+361,3.3,ug/m3 LC,14,WHITEFACE BASE,,New York,31,Essex,2020-02-13
+362,3.9,ug/m3 LC,16,WHITEFACE BASE,,New York,31,Essex,2020-02-14
+363,0.7,ug/m3 LC,3,WHITEFACE BASE,,New York,31,Essex,2020-02-15
+364,4.7,ug/m3 LC,20,WHITEFACE BASE,,New York,31,Essex,2020-02-16
+365,4.1,ug/m3 LC,17,WHITEFACE BASE,,New York,31,Essex,2020-02-17
+366,2.0,ug/m3 LC,8,WHITEFACE BASE,,New York,31,Essex,2020-02-18
+367,2.9,ug/m3 LC,12,WHITEFACE BASE,,New York,31,Essex,2020-02-19
+368,2.4,ug/m3 LC,10,WHITEFACE BASE,,New York,31,Essex,2020-02-20
+369,1.4,ug/m3 LC,6,WHITEFACE BASE,,New York,31,Essex,2020-02-21
+370,6.6,ug/m3 LC,28,WHITEFACE BASE,,New York,31,Essex,2020-02-22
+371,5.6,ug/m3 LC,23,WHITEFACE BASE,,New York,31,Essex,2020-02-23
+372,5.6,ug/m3 LC,23,WHITEFACE BASE,,New York,31,Essex,2020-02-24
+373,8.5,ug/m3 LC,35,WHITEFACE BASE,,New York,31,Essex,2020-02-25
+374,4.1,ug/m3 LC,17,WHITEFACE BASE,,New York,31,Essex,2020-02-26
+375,0.7,ug/m3 LC,3,WHITEFACE BASE,,New York,31,Essex,2020-02-27
+376,0.5,ug/m3 LC,2,WHITEFACE BASE,,New York,31,Essex,2020-02-28
+377,-1.7,ug/m3 LC,0,WHITEFACE BASE,,New York,31,Essex,2020-02-29
+378,-1.7,ug/m3 LC,0,WHITEFACE BASE,,New York,31,Essex,2020-03-01
+379,-1.8,ug/m3 LC,0,WHITEFACE BASE,,New York,31,Essex,2020-03-02
+380,1.7,ug/m3 LC,7,WHITEFACE BASE,,New York,31,Essex,2020-03-03
+381,3.8,ug/m3 LC,16,WHITEFACE BASE,,New York,31,Essex,2020-03-04
+382,3.0,ug/m3 LC,13,WHITEFACE BASE,,New York,31,Essex,2020-03-05
+383,3.3,ug/m3 LC,14,WHITEFACE BASE,,New York,31,Essex,2020-03-06
+384,2.0,ug/m3 LC,8,WHITEFACE BASE,,New York,31,Essex,2020-03-07
+385,2.8,ug/m3 LC,12,WHITEFACE BASE,,New York,31,Essex,2020-03-08
+386,6.8,ug/m3 LC,28,WHITEFACE BASE,,New York,31,Essex,2020-03-09
+387,4.3,ug/m3 LC,18,WHITEFACE BASE,,New York,31,Essex,2020-03-10
+388,2.7,ug/m3 LC,11,WHITEFACE BASE,,New York,31,Essex,2020-03-11
+389,3.8,ug/m3 LC,16,WHITEFACE BASE,,New York,31,Essex,2020-03-12
+390,1.8,ug/m3 LC,8,WHITEFACE BASE,,New York,31,Essex,2020-03-13
+391,2.7,ug/m3 LC,11,WHITEFACE BASE,,New York,31,Essex,2020-03-14
+392,2.8,ug/m3 LC,12,WHITEFACE BASE,,New York,31,Essex,2020-03-15
+393,1.7,ug/m3 LC,7,WHITEFACE BASE,,New York,31,Essex,2020-03-16
+394,3.0,ug/m3 LC,13,WHITEFACE BASE,,New York,31,Essex,2020-03-17
+395,3.2,ug/m3 LC,13,WHITEFACE BASE,,New York,31,Essex,2020-03-18
+396,2.1,ug/m3 LC,9,WHITEFACE BASE,,New York,31,Essex,2020-03-19
+397,1.6,ug/m3 LC,7,WHITEFACE BASE,,New York,31,Essex,2020-03-20
+398,4.2,ug/m3 LC,18,WHITEFACE BASE,,New York,31,Essex,2020-03-21
+399,2.8,ug/m3 LC,12,WHITEFACE BASE,,New York,31,Essex,2020-03-22
+400,1.8,ug/m3 LC,8,WHITEFACE BASE,,New York,31,Essex,2020-03-23
+401,3.0,ug/m3 LC,13,WHITEFACE BASE,,New York,31,Essex,2020-03-24
+402,3.9,ug/m3 LC,16,WHITEFACE BASE,,New York,31,Essex,2020-03-25
+403,2.4,ug/m3 LC,10,WHITEFACE BASE,,New York,31,Essex,2020-03-26
+404,2.7,ug/m3 LC,11,WHITEFACE BASE,,New York,31,Essex,2020-03-27
+405,6.9,ug/m3 LC,29,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-01
+406,11.0,ug/m3 LC,46,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-02
+407,13.7,ug/m3 LC,54,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-03
+408,10.5,ug/m3 LC,44,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-04
+409,6.2,ug/m3 LC,26,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-05
+410,9.0,ug/m3 LC,38,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-06
+411,8.5,ug/m3 LC,35,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-07
+412,7.3,ug/m3 LC,30,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-08
+413,6.8,ug/m3 LC,28,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-09
+414,8.6,ug/m3 LC,36,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-10
+415,10.0,ug/m3 LC,42,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-11
+416,7.2,ug/m3 LC,30,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-12
+417,11.2,ug/m3 LC,47,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-13
+418,11.0,ug/m3 LC,46,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-14
+419,11.8,ug/m3 LC,49,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-15
+420,7.8,ug/m3 LC,33,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-16
+421,6.9,ug/m3 LC,29,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-17
+422,4.4,ug/m3 LC,18,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-18
+423,7.4,ug/m3 LC,31,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-19
+424,6.5,ug/m3 LC,27,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-20
+425,7.3,ug/m3 LC,30,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-21
+426,10.0,ug/m3 LC,42,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-22
+427,14.1,ug/m3 LC,55,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-23
+428,17.7,ug/m3 LC,63,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-24
+429,4.6,ug/m3 LC,19,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-25
+430,5.9,ug/m3 LC,25,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-26
+431,6.1,ug/m3 LC,25,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-27
+432,5.1,ug/m3 LC,21,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-28
+433,5.8,ug/m3 LC,24,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-29
+434,7.9,ug/m3 LC,33,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-30
+435,8.7,ug/m3 LC,36,PS 314,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-31
+436,7.3,ug/m3 LC,30,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-01
+437,12.0,ug/m3 LC,50,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-02
+438,14.9,ug/m3 LC,57,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-03
+439,10.0,ug/m3 LC,42,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-04
+440,7.1,ug/m3 LC,30,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-05
+441,9.9,ug/m3 LC,41,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-06
+442,10.3,ug/m3 LC,43,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-07
+443,10.4,ug/m3 LC,43,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-08
+444,9.6,ug/m3 LC,40,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-09
+445,10.1,ug/m3 LC,42,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-10
+446,12.4,ug/m3 LC,52,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-11
+447,8.1,ug/m3 LC,34,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-12
+448,10.0,ug/m3 LC,42,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-13
+449,10.0,ug/m3 LC,42,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-14
+450,11.0,ug/m3 LC,46,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-15
+451,8.4,ug/m3 LC,35,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-16
+452,7.9,ug/m3 LC,33,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-17
+453,5.4,ug/m3 LC,23,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-18
+454,8.0,ug/m3 LC,33,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-19
+455,7.7,ug/m3 LC,32,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-20
+456,8.7,ug/m3 LC,36,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-21
+457,11.6,ug/m3 LC,48,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-22
+458,15.7,ug/m3 LC,59,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-23
+459,18.6,ug/m3 LC,65,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-24
+460,5.0,ug/m3 LC,21,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-25
+461,6.4,ug/m3 LC,27,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-26
+462,7.1,ug/m3 LC,30,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-27
+463,5.4,ug/m3 LC,23,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-28
+464,6.5,ug/m3 LC,27,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-29
+465,8.1,ug/m3 LC,34,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-30
+466,8.1,ug/m3 LC,34,PS 274,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-31
+467,2.2,ug/m3 LC,9,JHS 126,"New York-Newark-Jersey City, NY-NJ-PA",New York,47,Kings,2020-01-01
+468,8.4,ug/m3 LC,35,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-01
+469,9.1,ug/m3 LC,38,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-02
+470,12.9,ug/m3 LC,53,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-03
+471,6.3,ug/m3 LC,26,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-04
+472,6.7,ug/m3 LC,28,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-05
+473,8.1,ug/m3 LC,34,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-06
+474,9.4,ug/m3 LC,39,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-07
+475,9.3,ug/m3 LC,39,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-08
+476,7.3,ug/m3 LC,30,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-09
+477,10.7,ug/m3 LC,45,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-10
+478,6.6,ug/m3 LC,28,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-11
+479,7.0,ug/m3 LC,29,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-12
+480,8.9,ug/m3 LC,37,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-13
+481,9.7,ug/m3 LC,40,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-14
+482,7.2,ug/m3 LC,30,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-15
+483,8.0,ug/m3 LC,33,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-16
+484,8.5,ug/m3 LC,35,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-17
+485,4.6,ug/m3 LC,19,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-18
+486,8.0,ug/m3 LC,33,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-19
+487,7.1,ug/m3 LC,30,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-20
+488,9.5,ug/m3 LC,40,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-21
+489,13.0,ug/m3 LC,53,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-22
+490,14.6,ug/m3 LC,56,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-23
+491,13.8,ug/m3 LC,55,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-24
+492,7.3,ug/m3 LC,30,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-25
+493,5.2,ug/m3 LC,22,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-26
+494,6.2,ug/m3 LC,26,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-27
+495,5.7,ug/m3 LC,24,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-28
+496,6.6,ug/m3 LC,28,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-29
+497,10.0,ug/m3 LC,42,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-30
+498,9.6,ug/m3 LC,40,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-01-31
+499,11.2,ug/m3 LC,47,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-01
+500,9.7,ug/m3 LC,40,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-02
+501,7.3,ug/m3 LC,30,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-03
+502,5.4,ug/m3 LC,23,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-04
+503,3.0,ug/m3 LC,13,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-05
+504,3.6,ug/m3 LC,15,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-06
+505,5.3,ug/m3 LC,22,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-07
+506,6.8,ug/m3 LC,28,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-08
+507,7.3,ug/m3 LC,30,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-09
+508,7.7,ug/m3 LC,32,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-10
+509,8.9,ug/m3 LC,37,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-11
+510,7.7,ug/m3 LC,32,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-12
+511,6.9,ug/m3 LC,29,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-13
+512,8.8,ug/m3 LC,37,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-14
+513,6.4,ug/m3 LC,27,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-15
+514,8.3,ug/m3 LC,35,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-16
+515,6.1,ug/m3 LC,25,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-17
+516,7.4,ug/m3 LC,31,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-18
+517,5.4,ug/m3 LC,23,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-19
+518,5.3,ug/m3 LC,22,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-20
+519,8.2,ug/m3 LC,34,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-21
+520,7.0,ug/m3 LC,29,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-22
+521,8.6,ug/m3 LC,36,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-23
+522,12.7,ug/m3 LC,52,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-24
+523,9.7,ug/m3 LC,40,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-25
+524,7.0,ug/m3 LC,29,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-26
+525,4.0,ug/m3 LC,17,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-27
+526,4.7,ug/m3 LC,20,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-28
+527,7.1,ug/m3 LC,30,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-02-29
+528,8.0,ug/m3 LC,33,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-01
+529,9.8,ug/m3 LC,41,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-02
+530,9.8,ug/m3 LC,41,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-03
+531,5.9,ug/m3 LC,25,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-04
+532,2.7,ug/m3 LC,11,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-05
+533,5.9,ug/m3 LC,25,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-06
+534,3.7,ug/m3 LC,15,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-07
+535,5.4,ug/m3 LC,23,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-08
+536,11.2,ug/m3 LC,47,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-09
+537,8.2,ug/m3 LC,34,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-10
+538,5.3,ug/m3 LC,22,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-11
+539,7.4,ug/m3 LC,31,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-12
+540,5.9,ug/m3 LC,25,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-13
+541,4.7,ug/m3 LC,20,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-14
+542,4.0,ug/m3 LC,17,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-15
+543,4.9,ug/m3 LC,20,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-16
+544,7.2,ug/m3 LC,30,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-17
+545,5.7,ug/m3 LC,24,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-18
+546,4.9,ug/m3 LC,20,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-19
+547,5.2,ug/m3 LC,22,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-20
+548,4.9,ug/m3 LC,20,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-21
+549,5.0,ug/m3 LC,21,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-22
+550,4.5,ug/m3 LC,19,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-23
+551,3.7,ug/m3 LC,15,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-24
+552,3.9,ug/m3 LC,16,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-25
+553,5.4,ug/m3 LC,23,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-26
+554,4.6,ug/m3 LC,19,Rochester Near-Road,"Rochester, NY",New York,55,Monroe,2020-03-27
+555,3.0,ug/m3 LC,13,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-01
+556,5.8,ug/m3 LC,24,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-01
+557,5.4,ug/m3 LC,23,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-02
+558,11.4,ug/m3 LC,48,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-03
+559,4.8,ug/m3 LC,20,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-04
+560,3.3,ug/m3 LC,14,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-05
+561,5.1,ug/m3 LC,21,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-06
+562,6.3,ug/m3 LC,26,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-07
+563,4.1,ug/m3 LC,17,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-08
+564,5.0,ug/m3 LC,21,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-09
+565,7.8,ug/m3 LC,33,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-10
+566,4.9,ug/m3 LC,20,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-11
+567,3.5,ug/m3 LC,15,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-12
+568,8.5,ug/m3 LC,35,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-13
+569,12.2,ug/m3 LC,51,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-14
+570,7.8,ug/m3 LC,33,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-15
+571,6.0,ug/m3 LC,25,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-16
+572,5.4,ug/m3 LC,23,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-17
+573,6.4,ug/m3 LC,27,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-18
+574,4.8,ug/m3 LC,20,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-19
+575,3.1,ug/m3 LC,13,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-20
+576,8.1,ug/m3 LC,34,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-21
+577,15.0,ug/m3 LC,57,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-22
+578,15.3,ug/m3 LC,58,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-23
+579,18.1,ug/m3 LC,64,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-24
+580,8.3,ug/m3 LC,35,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-25
+581,5.9,ug/m3 LC,25,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-26
+582,4.2,ug/m3 LC,18,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-27
+583,3.4,ug/m3 LC,14,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-28
+584,4.4,ug/m3 LC,18,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-29
+585,8.9,ug/m3 LC,37,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-30
+586,12.9,ug/m3 LC,53,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-01-31
+587,18.9,ug/m3 LC,65,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-01
+588,13.9,ug/m3 LC,55,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-02
+589,9.8,ug/m3 LC,41,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-03
+590,8.8,ug/m3 LC,37,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-04
+591,2.5,ug/m3 LC,10,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-05
+592,4.9,ug/m3 LC,20,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-06
+593,2.6,ug/m3 LC,11,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-07
+594,4.7,ug/m3 LC,20,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-08
+595,9.7,ug/m3 LC,40,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-09
+596,9.8,ug/m3 LC,41,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-10
+597,13.6,ug/m3 LC,54,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-11
+598,10.3,ug/m3 LC,43,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-12
+599,8.8,ug/m3 LC,37,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-13
+600,6.0,ug/m3 LC,25,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-14
+601,6.8,ug/m3 LC,28,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-15
+602,11.2,ug/m3 LC,47,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-16
+603,6.1,ug/m3 LC,25,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-17
+604,9.2,ug/m3 LC,38,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-18
+605,3.8,ug/m3 LC,16,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-19
+606,4.2,ug/m3 LC,18,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-20
+607,6.4,ug/m3 LC,27,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-21
+608,9.4,ug/m3 LC,39,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-22
+609,11.4,ug/m3 LC,48,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-23
+610,14.2,ug/m3 LC,55,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-24
+611,15.0,ug/m3 LC,57,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-25
+612,11.1,ug/m3 LC,46,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-26
+613,3.4,ug/m3 LC,14,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-27
+614,3.1,ug/m3 LC,13,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-28
+615,4.7,ug/m3 LC,20,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-02-29
+616,6.1,ug/m3 LC,25,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-01
+617,8.2,ug/m3 LC,34,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-02
+618,13.3,ug/m3 LC,54,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-03
+619,8.5,ug/m3 LC,35,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-04
+620,4.3,ug/m3 LC,18,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-05
+621,6.9,ug/m3 LC,29,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-06
+622,3.3,ug/m3 LC,14,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-07
+623,5.9,ug/m3 LC,25,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-08
+624,10.2,ug/m3 LC,43,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-09
+625,9.4,ug/m3 LC,39,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-12
+626,5.6,ug/m3 LC,23,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-13
+627,4.0,ug/m3 LC,17,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-14
+628,3.9,ug/m3 LC,16,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-15
+629,5.8,ug/m3 LC,24,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-16
+630,9.9,ug/m3 LC,41,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-17
+631,7.1,ug/m3 LC,30,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-18
+632,8.6,ug/m3 LC,36,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-19
+633,3.7,ug/m3 LC,15,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-20
+634,4.7,ug/m3 LC,20,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-21
+635,6.5,ug/m3 LC,27,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-22
+636,6.1,ug/m3 LC,25,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-23
+637,4.1,ug/m3 LC,17,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-24
+638,4.9,ug/m3 LC,20,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-25
+639,5.9,ug/m3 LC,25,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-26
+640,4.4,ug/m3 LC,18,ROCHESTER 2,"Rochester, NY",New York,55,Monroe,2020-03-27
+641,7.5,ug/m3 LC,31,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-01
+642,13.0,ug/m3 LC,53,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-03
+643,10.2,ug/m3 LC,43,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-04
+644,6.7,ug/m3 LC,28,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-05
+645,9.3,ug/m3 LC,39,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-06
+646,8.4,ug/m3 LC,35,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-07
+647,9.5,ug/m3 LC,40,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-08
+648,8.2,ug/m3 LC,34,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-09
+649,8.6,ug/m3 LC,36,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-10
+650,9.5,ug/m3 LC,40,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-11
+651,8.3,ug/m3 LC,35,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-12
+652,8.0,ug/m3 LC,33,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-13
+653,8.4,ug/m3 LC,35,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-14
+654,12.4,ug/m3 LC,52,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-15
+655,8.8,ug/m3 LC,37,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-16
+656,7.8,ug/m3 LC,33,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-17
+657,4.6,ug/m3 LC,19,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-18
+658,7.9,ug/m3 LC,33,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-19
+659,7.1,ug/m3 LC,30,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-20
+660,7.1,ug/m3 LC,30,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-21
+661,14.4,ug/m3 LC,56,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-22
+662,19.1,ug/m3 LC,66,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-23
+663,15.2,ug/m3 LC,58,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-24
+664,4.3,ug/m3 LC,18,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-25
+665,6.2,ug/m3 LC,26,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-26
+666,7.2,ug/m3 LC,30,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-27
+667,5.3,ug/m3 LC,22,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-28
+668,5.2,ug/m3 LC,22,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-29
+669,7.6,ug/m3 LC,32,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-30
+670,6.5,ug/m3 LC,27,EISENHOWER PARK,"New York-Newark-Jersey City, NY-NJ-PA",New York,59,Nassau,2020-01-31
+671,2.3,ug/m3 LC,10,IS 45,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-01
+672,8.6,ug/m3 LC,36,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-01
+673,14.5,ug/m3 LC,56,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-02
+674,17.5,ug/m3 LC,62,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-03
+675,12.5,ug/m3 LC,52,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-04
+676,8.3,ug/m3 LC,35,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-05
+677,11.3,ug/m3 LC,47,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-06
+678,11.3,ug/m3 LC,47,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-08
+679,10.3,ug/m3 LC,43,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-09
+680,12.0,ug/m3 LC,50,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-10
+681,11.2,ug/m3 LC,47,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-11
+682,9.6,ug/m3 LC,40,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-12
+683,11.5,ug/m3 LC,48,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-13
+684,12.4,ug/m3 LC,52,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-14
+685,14.2,ug/m3 LC,55,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-15
+686,10.2,ug/m3 LC,43,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-16
+687,8.8,ug/m3 LC,37,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-17
+688,9.5,ug/m3 LC,40,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-19
+689,7.2,ug/m3 LC,30,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-20
+690,8.3,ug/m3 LC,35,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-21
+691,9.3,ug/m3 LC,39,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-22
+692,19.6,ug/m3 LC,67,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-23
+693,17.5,ug/m3 LC,62,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-24
+694,6.0,ug/m3 LC,25,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-25
+695,7.0,ug/m3 LC,29,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-26
+696,8.5,ug/m3 LC,35,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-27
+697,7.3,ug/m3 LC,30,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-28
+698,6.6,ug/m3 LC,28,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-29
+699,8.8,ug/m3 LC,37,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-30
+700,13.3,ug/m3 LC,54,Intermediate School 143,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-31
+701,4.0,ug/m3 LC,17,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-01
+702,7.9,ug/m3 LC,33,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-01
+703,11.6,ug/m3 LC,48,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-02
+704,16.0,ug/m3 LC,59,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-03
+705,12.2,ug/m3 LC,51,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-04
+706,6.4,ug/m3 LC,27,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-05
+707,10.2,ug/m3 LC,43,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-06
+708,10.3,ug/m3 LC,43,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-07
+709,9.6,ug/m3 LC,40,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-08
+710,8.7,ug/m3 LC,36,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-09
+711,10.0,ug/m3 LC,42,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-10
+712,10.0,ug/m3 LC,42,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-11
+713,8.4,ug/m3 LC,35,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-12
+714,11.8,ug/m3 LC,49,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-13
+715,13.0,ug/m3 LC,53,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-14
+716,12.0,ug/m3 LC,50,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-15
+717,8.5,ug/m3 LC,35,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-16
+718,7.3,ug/m3 LC,30,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-17
+719,6.2,ug/m3 LC,26,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-18
+720,8.4,ug/m3 LC,35,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-19
+721,7.0,ug/m3 LC,29,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-20
+722,7.2,ug/m3 LC,30,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-21
+723,10.8,ug/m3 LC,45,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-22
+724,17.2,ug/m3 LC,62,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-23
+725,19.3,ug/m3 LC,66,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-24
+726,6.1,ug/m3 LC,25,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-25
+727,6.8,ug/m3 LC,28,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-26
+728,7.7,ug/m3 LC,32,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-27
+729,6.0,ug/m3 LC,25,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-28
+730,6.1,ug/m3 LC,25,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-29
+731,8.6,ug/m3 LC,36,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-30
+732,10.0,ug/m3 LC,42,DIVISION STREET,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-31
+733,7.1,ug/m3 LC,30,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-01
+734,12.5,ug/m3 LC,52,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-02
+735,16.5,ug/m3 LC,60,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-03
+736,14.2,ug/m3 LC,55,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-04
+737,8.9,ug/m3 LC,37,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-05
+738,9.7,ug/m3 LC,40,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-06
+739,10.3,ug/m3 LC,43,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-07
+740,10.6,ug/m3 LC,44,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-08
+741,10.0,ug/m3 LC,42,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-09
+742,10.2,ug/m3 LC,43,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-10
+743,11.7,ug/m3 LC,49,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-11
+744,8.2,ug/m3 LC,34,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-12
+745,11.8,ug/m3 LC,49,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-13
+746,11.8,ug/m3 LC,49,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-14
+747,11.0,ug/m3 LC,46,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-15
+748,5.9,ug/m3 LC,25,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-18
+749,7.6,ug/m3 LC,32,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-19
+750,6.8,ug/m3 LC,28,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-20
+751,7.1,ug/m3 LC,30,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-21
+752,8.2,ug/m3 LC,34,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-22
+753,18.5,ug/m3 LC,64,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-23
+754,15.5,ug/m3 LC,58,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-24
+755,5.3,ug/m3 LC,22,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-25
+756,5.2,ug/m3 LC,22,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-26
+757,6.7,ug/m3 LC,28,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-27
+758,4.9,ug/m3 LC,20,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-28
+759,5.8,ug/m3 LC,24,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-29
+760,8.0,ug/m3 LC,33,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-30
+761,9.9,ug/m3 LC,41,CCNY,"New York-Newark-Jersey City, NY-NJ-PA",New York,61,New York,2020-01-31
+762,7.2,ug/m3 LC,30,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-01
+763,8.9,ug/m3 LC,37,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-02
+764,9.6,ug/m3 LC,40,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-03
+765,5.8,ug/m3 LC,24,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-04
+766,5.6,ug/m3 LC,23,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-05
+767,6.7,ug/m3 LC,28,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-06
+768,6.7,ug/m3 LC,28,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-07
+769,7.9,ug/m3 LC,33,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-08
+770,6.6,ug/m3 LC,28,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-09
+771,10.4,ug/m3 LC,43,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-10
+772,7.9,ug/m3 LC,33,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-11
+773,6.4,ug/m3 LC,27,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-12
+774,7.9,ug/m3 LC,33,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-13
+775,7.6,ug/m3 LC,32,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-14
+776,7.5,ug/m3 LC,31,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-15
+777,6.4,ug/m3 LC,27,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-16
+778,7.0,ug/m3 LC,29,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-17
+779,4.7,ug/m3 LC,20,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-18
+780,8.5,ug/m3 LC,35,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-19
+781,5.9,ug/m3 LC,25,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-20
+782,10.1,ug/m3 LC,42,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-21
+783,8.7,ug/m3 LC,36,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-22
+784,14.5,ug/m3 LC,56,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-23
+785,14.1,ug/m3 LC,55,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-24
+786,6.7,ug/m3 LC,28,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-25
+787,4.6,ug/m3 LC,19,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-26
+788,4.6,ug/m3 LC,19,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-27
+789,4.4,ug/m3 LC,18,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-28
+790,5.7,ug/m3 LC,24,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-29
+791,8.2,ug/m3 LC,34,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-30
+792,10.3,ug/m3 LC,43,UTICA HEALTH DEPT,"Utica-Rome, NY",New York,65,Oneida,2020-01-31
+793,3.4,ug/m3 LC,14,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-01
+794,5.7,ug/m3 LC,24,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-01
+795,5.7,ug/m3 LC,24,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-02
+796,10.7,ug/m3 LC,45,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-03
+797,11.4,ug/m3 LC,48,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-04
+798,3.0,ug/m3 LC,13,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-05
+799,4.9,ug/m3 LC,20,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-06
+800,4.9,ug/m3 LC,20,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-07
+801,4.8,ug/m3 LC,20,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-08
+802,3.6,ug/m3 LC,15,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-09
+803,7.8,ug/m3 LC,33,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-10
+804,6.1,ug/m3 LC,25,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-11
+805,3.6,ug/m3 LC,15,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-12
+806,8.7,ug/m3 LC,36,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-13
+807,10.2,ug/m3 LC,43,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-14
+808,8.3,ug/m3 LC,35,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-15
+809,6.1,ug/m3 LC,25,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-16
+810,4.4,ug/m3 LC,18,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-17
+811,6.2,ug/m3 LC,26,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-18
+812,5.2,ug/m3 LC,22,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-19
+813,3.1,ug/m3 LC,13,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-20
+814,6.6,ug/m3 LC,28,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-21
+815,10.4,ug/m3 LC,43,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-22
+816,17.2,ug/m3 LC,62,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-24
+817,13.1,ug/m3 LC,53,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-25
+818,5.7,ug/m3 LC,24,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-26
+819,17.3,ug/m3 LC,62,EAST SYRACUSE,"Syracuse, NY",New York,67,Onondaga,2020-01-31
+820,2.3,ug/m3 LC,10,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-01
+821,7.7,ug/m3 LC,32,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-01
+822,9.9,ug/m3 LC,41,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-02
+823,15.0,ug/m3 LC,57,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-03
+824,10.8,ug/m3 LC,45,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-04
+825,6.5,ug/m3 LC,27,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-05
+826,8.4,ug/m3 LC,35,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-06
+827,9.1,ug/m3 LC,38,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-07
+828,9.4,ug/m3 LC,39,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-08
+829,7.8,ug/m3 LC,33,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-09
+830,11.7,ug/m3 LC,49,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-10
+831,10.2,ug/m3 LC,43,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-11
+832,6.6,ug/m3 LC,28,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-12
+833,8.5,ug/m3 LC,35,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-13
+834,9.0,ug/m3 LC,38,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-14
+835,11.3,ug/m3 LC,47,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-15
+836,7.6,ug/m3 LC,32,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-16
+837,6.9,ug/m3 LC,29,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-17
+838,5.2,ug/m3 LC,22,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-18
+839,8.7,ug/m3 LC,36,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-19
+840,6.7,ug/m3 LC,28,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-20
+841,10.7,ug/m3 LC,45,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-21
+842,14.1,ug/m3 LC,55,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-22
+843,16.0,ug/m3 LC,59,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-23
+844,23.1,ug/m3 LC,74,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-24
+845,6.0,ug/m3 LC,25,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-25
+846,4.7,ug/m3 LC,20,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-26
+847,6.0,ug/m3 LC,25,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-27
+848,4.9,ug/m3 LC,20,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-28
+849,5.5,ug/m3 LC,23,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-29
+850,7.8,ug/m3 LC,33,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-30
+851,13.1,ug/m3 LC,53,NEWBURGH,"New York-Newark-Jersey City, NY-NJ-PA",New York,71,Orange,2020-01-31
+852,7.1,ug/m3 LC,30,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-01
+853,12.6,ug/m3 LC,52,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-02
+854,16.5,ug/m3 LC,60,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-03
+855,12.1,ug/m3 LC,51,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-04
+856,6.9,ug/m3 LC,29,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-05
+857,10.1,ug/m3 LC,42,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-06
+858,8.3,ug/m3 LC,35,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-07
+859,10.6,ug/m3 LC,44,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-08
+860,8.4,ug/m3 LC,35,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-09
+861,9.5,ug/m3 LC,40,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-10
+862,10.5,ug/m3 LC,44,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-11
+863,8.5,ug/m3 LC,35,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-12
+864,9.6,ug/m3 LC,40,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-13
+865,10.3,ug/m3 LC,43,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-14
+866,12.1,ug/m3 LC,51,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-15
+867,8.7,ug/m3 LC,36,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-16
+868,8.2,ug/m3 LC,34,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-17
+869,5.1,ug/m3 LC,21,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-18
+870,8.4,ug/m3 LC,35,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-19
+871,7.1,ug/m3 LC,30,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-20
+872,8.2,ug/m3 LC,34,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-21
+873,11.2,ug/m3 LC,47,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-22
+874,15.2,ug/m3 LC,58,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-23
+875,16.3,ug/m3 LC,60,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-24
+876,5.8,ug/m3 LC,24,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-25
+877,6.5,ug/m3 LC,27,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-26
+878,7.2,ug/m3 LC,30,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-27
+879,5.6,ug/m3 LC,23,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-28
+880,6.1,ug/m3 LC,25,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-29
+881,7.1,ug/m3 LC,30,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-30
+882,7.6,ug/m3 LC,32,MASPETH LIBRARY,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-31
+883,1.3,ug/m3 LC,5,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-01
+884,8.2,ug/m3 LC,34,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-02
+885,12.5,ug/m3 LC,52,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-03
+886,10.0,ug/m3 LC,42,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-04
+887,0.7,ug/m3 LC,3,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-05
+888,5.8,ug/m3 LC,24,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-06
+889,6.7,ug/m3 LC,28,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-07
+890,5.5,ug/m3 LC,23,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-08
+891,3.1,ug/m3 LC,13,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-09
+892,5.7,ug/m3 LC,24,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-10
+893,4.4,ug/m3 LC,18,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-11
+894,2.0,ug/m3 LC,8,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-12
+895,2.2,ug/m3 LC,9,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-13
+896,7.9,ug/m3 LC,33,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-14
+897,12.1,ug/m3 LC,51,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-15
+898,6.8,ug/m3 LC,28,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-16
+899,2.1,ug/m3 LC,9,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-17
+900,3.3,ug/m3 LC,14,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-18
+901,3.7,ug/m3 LC,15,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-19
+902,2.3,ug/m3 LC,10,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-20
+903,4.3,ug/m3 LC,18,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-21
+904,10.0,ug/m3 LC,42,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-22
+905,19.0,ug/m3 LC,66,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-23
+906,18.3,ug/m3 LC,64,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-24
+907,4.9,ug/m3 LC,20,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-25
+908,4.0,ug/m3 LC,17,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-26
+909,4.7,ug/m3 LC,20,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-27
+910,1.8,ug/m3 LC,8,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-28
+911,2.0,ug/m3 LC,8,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-29
+912,4.4,ug/m3 LC,18,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-30
+913,5.1,ug/m3 LC,21,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-31
+914,16.1,ug/m3 LC,59,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-01
+915,11.1,ug/m3 LC,46,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-02
+916,8.6,ug/m3 LC,36,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-03
+917,14.2,ug/m3 LC,55,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-04
+918,3.7,ug/m3 LC,15,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-05
+919,4.3,ug/m3 LC,18,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-06
+920,5.3,ug/m3 LC,22,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-07
+921,4.6,ug/m3 LC,19,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-08
+922,7.0,ug/m3 LC,29,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-09
+923,6.9,ug/m3 LC,29,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-10
+924,5.8,ug/m3 LC,24,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-11
+925,7.5,ug/m3 LC,31,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-12
+926,6.3,ug/m3 LC,26,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-13
+927,3.2,ug/m3 LC,13,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-14
+928,5.0,ug/m3 LC,21,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-15
+929,8.2,ug/m3 LC,34,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-16
+930,9.8,ug/m3 LC,41,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-17
+931,7.5,ug/m3 LC,31,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-18
+932,5.9,ug/m3 LC,25,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-19
+933,3.2,ug/m3 LC,13,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-20
+934,3.1,ug/m3 LC,13,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-21
+935,8.4,ug/m3 LC,35,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-22
+936,11.2,ug/m3 LC,47,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-23
+937,13.4,ug/m3 LC,54,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-24
+938,9.5,ug/m3 LC,40,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-25
+939,4.4,ug/m3 LC,18,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-26
+940,1.2,ug/m3 LC,5,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-27
+941,5.8,ug/m3 LC,24,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-28
+942,2.6,ug/m3 LC,11,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-29
+943,4.2,ug/m3 LC,18,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-01
+944,10.3,ug/m3 LC,43,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-02
+945,11.2,ug/m3 LC,47,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-03
+946,4.0,ug/m3 LC,17,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-04
+947,4.0,ug/m3 LC,17,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-05
+948,4.6,ug/m3 LC,19,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-06
+949,0.8,ug/m3 LC,3,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-07
+950,3.4,ug/m3 LC,14,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-08
+951,10.0,ug/m3 LC,42,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-09
+952,8.2,ug/m3 LC,34,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-10
+953,4.0,ug/m3 LC,17,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-11
+954,5.8,ug/m3 LC,24,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-12
+955,2.6,ug/m3 LC,11,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-13
+956,1.0,ug/m3 LC,4,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-14
+957,2.1,ug/m3 LC,9,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-15
+958,2.1,ug/m3 LC,9,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-16
+959,3.8,ug/m3 LC,16,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-17
+960,5.4,ug/m3 LC,23,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-18
+961,2.9,ug/m3 LC,12,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-19
+962,8.5,ug/m3 LC,35,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-20
+963,1.2,ug/m3 LC,5,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-21
+964,3.1,ug/m3 LC,13,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-22
+965,2.5,ug/m3 LC,10,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-23
+966,1.8,ug/m3 LC,8,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-24
+967,2.8,ug/m3 LC,12,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-25
+968,5.0,ug/m3 LC,21,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-26
+969,5.0,ug/m3 LC,21,QUEENS COLLEGE 2,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-27
+970,2.3,ug/m3 LC,10,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-01
+971,12.7,ug/m3 LC,52,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-02
+972,16.4,ug/m3 LC,60,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-03
+973,12.4,ug/m3 LC,52,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-04
+974,6.9,ug/m3 LC,29,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-05
+975,10.2,ug/m3 LC,43,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-06
+976,10.4,ug/m3 LC,43,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-07
+977,9.9,ug/m3 LC,41,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-08
+978,9.5,ug/m3 LC,40,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-09
+979,9.9,ug/m3 LC,41,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-10
+980,11.0,ug/m3 LC,46,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-11
+981,8.7,ug/m3 LC,36,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-12
+982,11.3,ug/m3 LC,47,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-13
+983,11.6,ug/m3 LC,48,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-14
+984,13.2,ug/m3 LC,53,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-15
+985,8.7,ug/m3 LC,36,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-16
+986,8.5,ug/m3 LC,35,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-17
+987,5.5,ug/m3 LC,23,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-18
+988,8.5,ug/m3 LC,35,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-19
+989,8.3,ug/m3 LC,35,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-20
+990,9.3,ug/m3 LC,39,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-21
+991,13.4,ug/m3 LC,54,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-22
+992,15.8,ug/m3 LC,59,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-23
+993,16.8,ug/m3 LC,61,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-24
+994,4.6,ug/m3 LC,19,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-25
+995,6.2,ug/m3 LC,26,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-26
+996,7.8,ug/m3 LC,33,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-27
+997,6.6,ug/m3 LC,28,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-28
+998,7.0,ug/m3 LC,29,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-29
+999,9.7,ug/m3 LC,40,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-30
+1000,9.1,ug/m3 LC,38,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-01-31
+1001,11.0,ug/m3 LC,46,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-01
+1002,9.2,ug/m3 LC,38,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-02
+1003,11.3,ug/m3 LC,47,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-03
+1004,16.3,ug/m3 LC,60,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-04
+1005,7.5,ug/m3 LC,31,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-05
+1006,5.9,ug/m3 LC,25,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-06
+1007,6.2,ug/m3 LC,26,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-07
+1008,9.1,ug/m3 LC,38,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-08
+1009,9.0,ug/m3 LC,38,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-09
+1010,8.4,ug/m3 LC,35,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-10
+1011,8.3,ug/m3 LC,35,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-11
+1012,8.2,ug/m3 LC,34,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-12
+1013,6.5,ug/m3 LC,27,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-13
+1014,7.4,ug/m3 LC,31,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-14
+1015,5.3,ug/m3 LC,22,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-15
+1016,9.4,ug/m3 LC,39,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-16
+1017,12.0,ug/m3 LC,50,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-17
+1018,9.6,ug/m3 LC,40,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-18
+1019,8.0,ug/m3 LC,33,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-19
+1020,6.0,ug/m3 LC,25,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-20
+1021,5.7,ug/m3 LC,24,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-21
+1022,8.1,ug/m3 LC,34,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-22
+1023,11.0,ug/m3 LC,46,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-23
+1024,13.0,ug/m3 LC,53,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-24
+1025,9.9,ug/m3 LC,41,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-25
+1026,6.1,ug/m3 LC,25,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-26
+1027,3.5,ug/m3 LC,15,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-27
+1028,5.9,ug/m3 LC,25,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-28
+1029,5.7,ug/m3 LC,24,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-02-29
+1030,6.5,ug/m3 LC,27,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-01
+1031,12.0,ug/m3 LC,50,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-02
+1032,10.7,ug/m3 LC,45,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-03
+1033,5.5,ug/m3 LC,23,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-04
+1034,6.3,ug/m3 LC,26,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-05
+1035,6.7,ug/m3 LC,28,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-06
+1036,5.1,ug/m3 LC,21,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-07
+1037,5.6,ug/m3 LC,23,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-08
+1038,12.0,ug/m3 LC,50,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-09
+1039,9.6,ug/m3 LC,40,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-10
+1040,6.2,ug/m3 LC,26,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-11
+1041,9.1,ug/m3 LC,38,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-12
+1042,4.4,ug/m3 LC,18,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-13
+1043,4.8,ug/m3 LC,20,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-14
+1044,4.7,ug/m3 LC,20,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-15
+1045,5.3,ug/m3 LC,22,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-16
+1046,5.8,ug/m3 LC,24,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-17
+1047,6.5,ug/m3 LC,27,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-18
+1048,4.6,ug/m3 LC,19,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-19
+1049,7.0,ug/m3 LC,29,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-20
+1050,3.7,ug/m3 LC,15,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-21
+1051,6.1,ug/m3 LC,25,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-22
+1052,2.7,ug/m3 LC,11,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-23
+1053,4.1,ug/m3 LC,17,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-24
+1054,5.3,ug/m3 LC,22,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-25
+1055,6.6,ug/m3 LC,28,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-26
+1056,6.6,ug/m3 LC,28,Queens College Near Road,"New York-Newark-Jersey City, NY-NJ-PA",New York,81,Queens,2020-03-27
+1057,2.2,ug/m3 LC,9,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-01
+1058,7.1,ug/m3 LC,30,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-01
+1059,12.3,ug/m3 LC,51,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-02
+1060,13.7,ug/m3 LC,54,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-03
+1061,9.2,ug/m3 LC,38,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-04
+1062,6.0,ug/m3 LC,25,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-05
+1063,9.2,ug/m3 LC,38,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-06
+1064,9.7,ug/m3 LC,40,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-07
+1065,8.5,ug/m3 LC,35,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-08
+1066,8.7,ug/m3 LC,36,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-09
+1067,10.4,ug/m3 LC,43,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-10
+1068,8.0,ug/m3 LC,33,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-11
+1069,6.6,ug/m3 LC,28,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-12
+1070,11.5,ug/m3 LC,48,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-13
+1071,11.9,ug/m3 LC,50,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-14
+1072,11.6,ug/m3 LC,48,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-15
+1073,7.7,ug/m3 LC,32,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-16
+1074,7.0,ug/m3 LC,29,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-17
+1075,5.2,ug/m3 LC,22,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-18
+1076,7.5,ug/m3 LC,31,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-19
+1077,6.4,ug/m3 LC,27,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-20
+1078,7.3,ug/m3 LC,30,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-21
+1079,11.1,ug/m3 LC,46,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-22
+1080,15.1,ug/m3 LC,57,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-23
+1081,16.6,ug/m3 LC,60,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-24
+1082,5.0,ug/m3 LC,21,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-25
+1083,5.8,ug/m3 LC,24,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-26
+1084,6.4,ug/m3 LC,27,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-27
+1085,4.7,ug/m3 LC,20,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-28
+1086,5.8,ug/m3 LC,24,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-29
+1087,8.0,ug/m3 LC,33,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-30
+1088,9.7,ug/m3 LC,40,RICHMOND POST OFFICE,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-31
+1089,7.0,ug/m3 LC,29,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-01
+1090,11.7,ug/m3 LC,49,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-02
+1091,13.5,ug/m3 LC,54,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-03
+1092,8.6,ug/m3 LC,36,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-04
+1093,6.0,ug/m3 LC,25,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-05
+1094,8.8,ug/m3 LC,37,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-06
+1095,8.4,ug/m3 LC,35,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-07
+1096,8.7,ug/m3 LC,36,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-08
+1097,7.8,ug/m3 LC,33,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-09
+1098,9.0,ug/m3 LC,38,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-10
+1099,8.5,ug/m3 LC,35,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-11
+1100,7.5,ug/m3 LC,31,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-12
+1101,12.3,ug/m3 LC,51,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-13
+1102,11.0,ug/m3 LC,46,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-14
+1103,10.6,ug/m3 LC,44,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-15
+1104,7.8,ug/m3 LC,33,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-16
+1105,6.4,ug/m3 LC,27,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-17
+1106,4.5,ug/m3 LC,19,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-18
+1107,7.6,ug/m3 LC,32,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-19
+1108,6.1,ug/m3 LC,25,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-20
+1109,6.8,ug/m3 LC,28,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-21
+1110,10.0,ug/m3 LC,42,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-22
+1111,15.3,ug/m3 LC,58,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-23
+1112,16.3,ug/m3 LC,60,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-24
+1113,4.7,ug/m3 LC,20,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-25
+1114,5.4,ug/m3 LC,23,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-26
+1115,6.3,ug/m3 LC,26,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-27
+1116,4.6,ug/m3 LC,19,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-28
+1117,5.3,ug/m3 LC,22,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-29
+1118,8.2,ug/m3 LC,34,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-30
+1119,9.5,ug/m3 LC,40,FRESHKILLS WEST,"New York-Newark-Jersey City, NY-NJ-PA",New York,85,Richmond,2020-01-31
+1120,7.2,ug/m3 LC,30,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-01
+1121,10.2,ug/m3 LC,43,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-02
+1122,13.9,ug/m3 LC,55,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-03
+1123,9.1,ug/m3 LC,38,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-04
+1124,6.8,ug/m3 LC,28,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-05
+1125,7.7,ug/m3 LC,32,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-06
+1126,7.6,ug/m3 LC,32,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-07
+1127,8.4,ug/m3 LC,35,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-08
+1128,7.7,ug/m3 LC,32,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-09
+1129,8.2,ug/m3 LC,34,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-10
+1130,9.8,ug/m3 LC,41,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-11
+1131,6.9,ug/m3 LC,29,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-12
+1132,8.6,ug/m3 LC,36,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-13
+1133,8.5,ug/m3 LC,35,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-14
+1134,9.7,ug/m3 LC,40,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-15
+1135,8.2,ug/m3 LC,34,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-16
+1136,7.1,ug/m3 LC,30,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-17
+1137,5.8,ug/m3 LC,24,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-18
+1138,7.2,ug/m3 LC,30,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-19
+1139,6.2,ug/m3 LC,26,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-20
+1140,6.4,ug/m3 LC,27,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-21
+1141,7.9,ug/m3 LC,33,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-22
+1142,13.6,ug/m3 LC,54,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-23
+1143,11.7,ug/m3 LC,49,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-24
+1144,5.1,ug/m3 LC,21,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-25
+1145,4.9,ug/m3 LC,20,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-26
+1146,5.6,ug/m3 LC,23,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-27
+1147,4.5,ug/m3 LC,19,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-28
+1148,5.1,ug/m3 LC,21,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-29
+1149,6.9,ug/m3 LC,29,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-30
+1150,9.3,ug/m3 LC,39,Rockland County,"New York-Newark-Jersey City, NY-NJ-PA",New York,87,Rockland,2020-01-31
+1151,2.9,ug/m3 LC,12,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-01
+1152,5.6,ug/m3 LC,23,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-01
+1153,4.6,ug/m3 LC,19,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-02
+1154,6.2,ug/m3 LC,26,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-03
+1155,4.5,ug/m3 LC,19,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-04
+1156,2.3,ug/m3 LC,10,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-05
+1157,4.1,ug/m3 LC,17,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-06
+1158,5.7,ug/m3 LC,24,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-07
+1159,3.8,ug/m3 LC,16,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-08
+1160,5.1,ug/m3 LC,21,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-09
+1161,8.2,ug/m3 LC,34,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-10
+1162,6.2,ug/m3 LC,26,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-11
+1163,1.7,ug/m3 LC,7,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-12
+1164,5.9,ug/m3 LC,25,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-13
+1165,10.8,ug/m3 LC,45,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-14
+1166,9.9,ug/m3 LC,41,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-15
+1167,4.7,ug/m3 LC,20,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-16
+1168,4.7,ug/m3 LC,20,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-17
+1169,6.3,ug/m3 LC,26,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-18
+1170,3.9,ug/m3 LC,16,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-19
+1171,3.2,ug/m3 LC,13,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-20
+1172,5.0,ug/m3 LC,21,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-21
+1173,6.7,ug/m3 LC,28,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-22
+1174,9.8,ug/m3 LC,41,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-23
+1175,12.2,ug/m3 LC,51,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-24
+1176,5.4,ug/m3 LC,23,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-25
+1177,3.1,ug/m3 LC,13,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-26
+1178,2.5,ug/m3 LC,10,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-27
+1179,2.9,ug/m3 LC,12,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-28
+1180,3.8,ug/m3 LC,16,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-29
+1181,5.7,ug/m3 LC,24,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-30
+1182,13.5,ug/m3 LC,54,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-01-31
+1183,16.4,ug/m3 LC,60,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-01
+1184,7.9,ug/m3 LC,33,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-02
+1185,5.2,ug/m3 LC,22,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-03
+1186,7.4,ug/m3 LC,31,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-04
+1187,4.1,ug/m3 LC,17,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-05
+1188,4.9,ug/m3 LC,20,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-06
+1189,1.9,ug/m3 LC,8,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-07
+1190,4.8,ug/m3 LC,20,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-08
+1191,8.1,ug/m3 LC,34,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-09
+1192,4.7,ug/m3 LC,20,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-10
+1193,7.6,ug/m3 LC,32,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-11
+1194,9.4,ug/m3 LC,39,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-12
+1195,4.2,ug/m3 LC,18,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-13
+1196,5.3,ug/m3 LC,22,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-14
+1197,7.4,ug/m3 LC,31,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-15
+1198,8.1,ug/m3 LC,34,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-16
+1199,11.5,ug/m3 LC,48,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-17
+1200,11.0,ug/m3 LC,46,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-18
+1201,4.8,ug/m3 LC,20,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-19
+1202,4.6,ug/m3 LC,19,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-20
+1203,5.3,ug/m3 LC,22,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-21
+1204,8.7,ug/m3 LC,36,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-22
+1205,8.4,ug/m3 LC,35,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-23
+1206,7.1,ug/m3 LC,30,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-24
+1207,16.1,ug/m3 LC,59,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-25
+1208,8.4,ug/m3 LC,35,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-26
+1209,1.9,ug/m3 LC,8,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-27
+1210,3.5,ug/m3 LC,15,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-28
+1211,3.6,ug/m3 LC,15,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-02-29
+1212,4.8,ug/m3 LC,20,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-01
+1213,7.8,ug/m3 LC,33,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-02
+1214,5.7,ug/m3 LC,24,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-03
+1215,5.8,ug/m3 LC,24,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-04
+1216,4.9,ug/m3 LC,20,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-05
+1217,8.6,ug/m3 LC,36,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-06
+1218,3.3,ug/m3 LC,14,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-07
+1219,5.0,ug/m3 LC,21,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-08
+1220,7.2,ug/m3 LC,30,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-09
+1221,5.8,ug/m3 LC,24,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-10
+1222,6.9,ug/m3 LC,29,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-11
+1223,11.2,ug/m3 LC,47,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-12
+1224,3.5,ug/m3 LC,15,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-13
+1225,5.5,ug/m3 LC,23,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-14
+1226,4.8,ug/m3 LC,20,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-15
+1227,5.7,ug/m3 LC,24,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-16
+1228,5.5,ug/m3 LC,23,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-17
+1229,10.6,ug/m3 LC,44,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-18
+1230,4.5,ug/m3 LC,19,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-19
+1231,3.6,ug/m3 LC,15,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-20
+1232,4.1,ug/m3 LC,17,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-21
+1233,5.6,ug/m3 LC,23,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-22
+1234,4.4,ug/m3 LC,18,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-23
+1235,3.8,ug/m3 LC,16,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-24
+1236,5.4,ug/m3 LC,23,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-25
+1237,5.1,ug/m3 LC,21,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-26
+1238,5.9,ug/m3 LC,25,PINNACLE STATE PARK,"Corning, NY",New York,101,Steuben,2020-03-27
+1239,1.9,ug/m3 LC,8,BABYLON,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-01
+1240,7.2,ug/m3 LC,30,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-01
+1241,10.2,ug/m3 LC,43,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-02
+1242,12.8,ug/m3 LC,52,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-03
+1243,10.7,ug/m3 LC,45,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-04
+1244,7.2,ug/m3 LC,30,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-05
+1245,9.3,ug/m3 LC,39,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-06
+1246,7.9,ug/m3 LC,33,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-07
+1247,9.5,ug/m3 LC,40,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-08
+1248,9.8,ug/m3 LC,41,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-09
+1249,7.9,ug/m3 LC,33,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-10
+1250,8.9,ug/m3 LC,37,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-11
+1251,7.7,ug/m3 LC,32,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-12
+1252,8.0,ug/m3 LC,33,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-13
+1253,8.4,ug/m3 LC,35,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-14
+1254,13.8,ug/m3 LC,55,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-15
+1255,7.4,ug/m3 LC,31,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-16
+1256,7.0,ug/m3 LC,29,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-17
+1257,4.3,ug/m3 LC,18,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-18
+1258,7.6,ug/m3 LC,32,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-19
+1259,6.7,ug/m3 LC,28,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-20
+1260,6.7,ug/m3 LC,28,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-21
+1261,11.9,ug/m3 LC,50,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-22
+1262,14.8,ug/m3 LC,57,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-23
+1263,13.1,ug/m3 LC,53,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-24
+1264,5.6,ug/m3 LC,23,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-26
+1265,6.5,ug/m3 LC,27,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-27
+1266,4.3,ug/m3 LC,18,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-28
+1267,5.2,ug/m3 LC,22,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-29
+1268,8.0,ug/m3 LC,33,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-30
+1269,6.3,ug/m3 LC,26,HOLTSVILLE,"New York-Newark-Jersey City, NY-NJ-PA",New York,103,Suffolk,2020-01-31
+1270,7.3,ug/m3 LC,30,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-01
+1271,10.7,ug/m3 LC,45,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-02
+1272,13.7,ug/m3 LC,54,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-03
+1273,9.9,ug/m3 LC,41,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-04
+1274,6.9,ug/m3 LC,29,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-05
+1275,7.3,ug/m3 LC,30,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-07
+1276,8.8,ug/m3 LC,37,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-08
+1277,7.6,ug/m3 LC,32,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-09
+1278,8.5,ug/m3 LC,35,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-10
+1279,10.0,ug/m3 LC,42,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-11
+1280,7.7,ug/m3 LC,32,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-12
+1281,8.7,ug/m3 LC,36,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-13
+1282,8.1,ug/m3 LC,34,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-14
+1283,10.0,ug/m3 LC,42,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-15
+1284,8.2,ug/m3 LC,34,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-16
+1285,7.0,ug/m3 LC,29,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-17
+1286,5.2,ug/m3 LC,22,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-18
+1287,7.2,ug/m3 LC,30,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-19
+1288,6.7,ug/m3 LC,28,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-20
+1289,6.9,ug/m3 LC,29,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-21
+1290,8.9,ug/m3 LC,37,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-22
+1291,13.4,ug/m3 LC,54,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-23
+1292,13.8,ug/m3 LC,55,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-24
+1293,4.6,ug/m3 LC,19,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-25
+1294,5.5,ug/m3 LC,23,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-26
+1295,6.0,ug/m3 LC,25,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-27
+1296,4.7,ug/m3 LC,20,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-28
+1297,5.3,ug/m3 LC,22,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-29
+1298,6.8,ug/m3 LC,28,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-30
+1299,7.3,ug/m3 LC,30,WHITE PLAINS,"New York-Newark-Jersey City, NY-NJ-PA",New York,119,Westchester,2020-01-31
